@@ -1,0 +1,19 @@
+{
+  "name": "fc26-teamsuche",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "scrape": "python -X utf8 scripts/scrape_fifacm.py",
+    "data": "python -X utf8 scripts/build_data.py",
+    "deploy": "npm run build && gh-pages -d dist --nojekyll"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.4"
+  }
+}
