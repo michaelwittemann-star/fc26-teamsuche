@@ -378,7 +378,7 @@ const COLS: [string, string][] = [['n', 'Team'], ['lg', 'Liga'], ['st', 'Sterne'
 function renderResults() {
   const profiles = activeProfiles();
   const filtered = profiles.some((p) => p.pos.length || p.conds.some((c) => c.v !== null));
-  $('#count').textContent = `${hits.length.toLocaleString('de')} ${hits.length === 1 ? 'Team' : 'Teams'}${filtered ? ' passen' : ''}`;
+  $('#count').textContent = `${hits.length.toLocaleString('de')} ${hits.length === 1 ? 'Team' : 'Teams'}${filtered ? (hits.length === 1 ? ' passt' : ' passen') : ''}`;
   const head = COLS.map(([k, l]) =>
     `<th data-sort="${k}" class="${k === state.sort ? (state.desc ? 'desc' : 'asc') : ''}${['o', 'at', 'mi', 'de'].includes(k) ? ' num' : ''}">${l}</th>`).join('');
   const rows = hits.slice(0, shown).map((h) => {
@@ -495,7 +495,7 @@ function openTeam(id: number) {
     const face = (p.s ?? []).slice(0, 6);
     return `<tr class="prow${inXi.has(pid) ? ' xi' : ''}" data-pid="${pid}">
       <td class="muted num">${no ?? ''}</td>
-      <td><span class="pname">${esc(p.n)}</span>${loan ? ' <span class="kind">Leihe</span>' : ''}${profileMarks(pid)}</td>
+      <td><span class="pname">${esc(p.n)}</span>${loan && t.k === 'c' ? ' <span class="kind">Leihe</span>' : ''}${profileMarks(pid)}</td>
       <td class="pos">${p.p.map(posDe).join(', ')}</td>
       <td class="num strong">${p.o}</td><td class="num">${p.ag}</td><td class="num">${p.h}</td>
       <td class="num">${p.f === 'L' ? 'L' : p.f === 'R' ? 'R' : ''}</td>

@@ -1,0 +1,7346 @@
+[
+ {
+  "id": 241,
+  "url": "/26/team/241/fc-barcelona",
+  "name": "FC Barcelona",
+  "ovr": 85,
+  "att": 87,
+  "mid": 85,
+  "def": 83
+ },
+ {
+  "id": 110329,
+  "url": "/26/team/110329/fc-st.-pauli",
+  "name": "FC St. Pauli",
+  "ovr": 72,
+  "att": 71,
+  "mid": 72,
+  "def": 72
+ },
+ {
+  "id": 116325,
+  "url": "/26/team/116325/fc-barcelona",
+  "name": "FC Barcelona",
+  "ovr": 85,
+  "att": 87,
+  "mid": 83,
+  "def": 86
+ },
+ {
+  "id": 116326,
+  "url": "/26/team/116326/real-madrid",
+  "name": "Real Madrid",
+  "ovr": 82,
+  "att": 82,
+  "mid": 82,
+  "def": 79
+ },
+ {
+  "id": 1473,
+  "url": "/26/team/1473/ulsan-hd-fc",
+  "name": "Ulsan HD FC",
+  "ovr": 68,
+  "att": 68,
+  "mid": 69,
+  "def": 65
+ },
+ {
+  "id": 45,
+  "url": "/26/team/45/juventus",
+  "name": "Juventus",
+  "ovr": 80,
+  "att": 81,
+  "mid": 80,
+  "def": 81
+ },
+ {
+  "id": 110955,
+  "url": "/26/team/110955/shanghai-shenhua",
+  "name": "Shanghai Shenhua",
+  "ovr": 66,
+  "att": 62,
+  "mid": 67,
+  "def": 66
+ },
+ {
+  "id": 243,
+  "url": "/26/team/243/real-madrid",
+  "name": "Real Madrid",
+  "ovr": 85,
+  "att": 90,
+  "mid": 84,
+  "def": 82
+ },
+ {
+  "id": 31,
+  "url": "/26/team/31/1.-fc-koln",
+  "name": "1. FC Köln",
+  "ovr": 74,
+  "att": 75,
+  "mid": 74,
+  "def": 71
+ },
+ {
+  "id": 33,
+  "url": "/26/team/33/tsv-1860-munchen",
+  "name": "TSV 1860 München",
+  "ovr": 66,
+  "att": 66,
+  "mid": 65,
+  "def": 65
+ },
+ {
+  "id": 112139,
+  "url": "/26/team/112139/al-nassr",
+  "name": "Al Nassr",
+  "ovr": 76,
+  "att": 85,
+  "mid": 77,
+  "def": 74
+ },
+ {
+  "id": 34,
+  "url": "/26/team/34/fc-schalke-04",
+  "name": "FC Schalke 04",
+  "ovr": 71,
+  "att": 75,
+  "mid": 70,
+  "def": 70
+ },
+ {
+  "id": 115995,
+  "url": "/26/team/115995/bayern-munchen",
+  "name": "Bayern München",
+  "ovr": 83,
+  "att": 83,
+  "mid": 84,
+  "def": 81
+ },
+ {
+  "id": 73,
+  "url": "/26/team/73/paris-saint-germain",
+  "name": "Paris Saint-Germain",
+  "ovr": 85,
+  "att": 85,
+  "mid": 86,
+  "def": 86
+ },
+ {
+  "id": 1477,
+  "url": "/26/team/1477/jeonbuk-hyundai-motors",
+  "name": "Jeonbuk Hyundai Motors",
+  "ovr": 69,
+  "att": 69,
+  "mid": 69,
+  "def": 67
+ },
+ {
+  "id": 112638,
+  "url": "/26/team/112638/buriram-united",
+  "name": "Buriram United",
+  "ovr": 68,
+  "att": 71,
+  "mid": 70,
+  "def": 67
+ },
+ {
+  "id": 11,
+  "url": "/26/team/11/manchester-united",
+  "name": "Manchester United",
+  "ovr": 80,
+  "att": 82,
+  "mid": 82,
+  "def": 79
+ },
+ {
+  "id": 116009,
+  "url": "/26/team/116009/arsenal",
+  "name": "Arsenal",
+  "ovr": 84,
+  "att": 85,
+  "mid": 84,
+  "def": 84
+ },
+ {
+  "id": 526,
+  "url": "/26/team/526/rot-weiss-essen",
+  "name": "Rot-Weiß Essen",
+  "ovr": 65,
+  "att": 66,
+  "mid": 66,
+  "def": 64
+ },
+ {
+  "id": 111724,
+  "url": "/26/team/111724/shandong-taishan",
+  "name": "Shandong Taishan",
+  "ovr": 65,
+  "att": 73,
+  "mid": 67,
+  "def": 62
+ },
+ {
+  "id": 503,
+  "url": "/26/team/503/dynamo-dresden",
+  "name": "Dynamo Dresden",
+  "ovr": 67,
+  "att": 68,
+  "mid": 67,
+  "def": 67
+ },
+ {
+  "id": 116010,
+  "url": "/26/team/116010/chelsea",
+  "name": "Chelsea",
+  "ovr": 83,
+  "att": 86,
+  "mid": 83,
+  "def": 82
+ },
+ {
+  "id": 234,
+  "url": "/26/team/234/benfica",
+  "name": "Benfica",
+  "ovr": 78,
+  "att": 80,
+  "mid": 78,
+  "def": 77
+ },
+ {
+  "id": 605,
+  "url": "/26/team/605/al-hilal",
+  "name": "Al Hilal",
+  "ovr": 78,
+  "att": 78,
+  "mid": 79,
+  "def": 75
+ },
+ {
+  "id": 219,
+  "url": "/26/team/219/olympique-de-marseille",
+  "name": "Olympique de Marseille",
+  "ovr": 79,
+  "att": 80,
+  "mid": 79,
+  "def": 79
+ },
+ {
+  "id": 982,
+  "url": "/26/team/982/fc-seoul",
+  "name": "FC Seoul",
+  "ovr": 68,
+  "att": 71,
+  "mid": 65,
+  "def": 70
+ },
+ {
+  "id": 116309,
+  "url": "/26/team/116309/kansas-city-current",
+  "name": "Kansas City Current",
+  "ovr": 78,
+  "att": 77,
+  "mid": 78,
+  "def": 74
+ },
+ {
+  "id": 115892,
+  "url": "/26/team/115892/al-najmah",
+  "name": "Al Najmah",
+  "ovr": 64,
+  "att": 64,
+  "mid": 66,
+  "def": 61
+ },
+ {
+  "id": 240,
+  "url": "/26/team/240/atletico-de-madrid",
+  "name": "Atlético de Madrid",
+  "ovr": 82,
+  "att": 84,
+  "mid": 82,
+  "def": 81
+ },
+ {
+  "id": 1,
+  "url": "/26/team/1/arsenal",
+  "name": "Arsenal",
+  "ovr": 84,
+  "att": 86,
+  "mid": 85,
+  "def": 84
+ },
+ {
+  "id": 1831,
+  "url": "/26/team/1831/1.-fc-union-berlin",
+  "name": "1. FC Union Berlin",
+  "ovr": 74,
+  "att": 74,
+  "mid": 74,
+  "def": 76
+ },
+ {
+  "id": 131682,
+  "url": "/26/team/131682/lombardia-fc",
+  "name": "Lombardia FC",
+  "ovr": 83,
+  "att": 86,
+  "mid": 83,
+  "def": 83
+ },
+ {
+  "id": 5,
+  "url": "/26/team/5/chelsea",
+  "name": "Chelsea",
+  "ovr": 81,
+  "att": 82,
+  "mid": 84,
+  "def": 79
+ },
+ {
+  "id": 325,
+  "url": "/26/team/325/galatasaray",
+  "name": "Galatasaray",
+  "ovr": 79,
+  "att": 81,
+  "mid": 80,
+  "def": 78
+ },
+ {
+  "id": 10,
+  "url": "/26/team/10/manchester-city",
+  "name": "Manchester City",
+  "ovr": 84,
+  "att": 87,
+  "mid": 84,
+  "def": 82
+ },
+ {
+  "id": 131681,
+  "url": "/26/team/131681/milano-fc",
+  "name": "Milano FC",
+  "ovr": 81,
+  "att": 82,
+  "mid": 82,
+  "def": 78
+ },
+ {
+  "id": 9,
+  "url": "/26/team/9/liverpool",
+  "name": "Liverpool",
+  "ovr": 84,
+  "att": 87,
+  "mid": 84,
+  "def": 83
+ },
+ {
+  "id": 254,
+  "url": "/26/team/254/sk-rapid",
+  "name": "SK Rapid",
+  "ovr": 69,
+  "att": 68,
+  "mid": 69,
+  "def": 69
+ },
+ {
+  "id": 22,
+  "url": "/26/team/22/borussia-dortmund",
+  "name": "Borussia Dortmund",
+  "ovr": 81,
+  "att": 82,
+  "mid": 80,
+  "def": 81
+ },
+ {
+  "id": 245,
+  "url": "/26/team/245/ajax",
+  "name": "Ajax",
+  "ovr": 75,
+  "att": 77,
+  "mid": 73,
+  "def": 74
+ },
+ {
+  "id": 1474,
+  "url": "/26/team/1474/pohang-steelers",
+  "name": "Pohang Steelers",
+  "ovr": 66,
+  "att": 66,
+  "mid": 66,
+  "def": 66
+ },
+ {
+  "id": 112893,
+  "url": "/26/team/112893/inter-miami",
+  "name": "Inter Miami",
+  "ovr": 72,
+  "att": 80,
+  "mid": 72,
+  "def": 69
+ },
+ {
+  "id": 1876,
+  "url": "/26/team/1876/river-plate",
+  "name": "River Plate",
+  "ovr": 74,
+  "att": 74,
+  "mid": 74,
+  "def": 74
+ },
+ {
+  "id": 115841,
+  "url": "/26/team/115841/latium",
+  "name": "Latium",
+  "ovr": 78,
+  "att": 77,
+  "mid": 77,
+  "def": 78
+ },
+ {
+  "id": 115997,
+  "url": "/26/team/115997/eintracht-frankfurt",
+  "name": "Eintracht Frankfurt",
+  "ovr": 79,
+  "att": 77,
+  "mid": 81,
+  "def": 78
+ },
+ {
+  "id": 697,
+  "url": "/26/team/697/los-angeles-galaxy",
+  "name": "Los Angeles Galaxy",
+  "ovr": 70,
+  "att": 72,
+  "mid": 70,
+  "def": 68
+ },
+ {
+  "id": 1877,
+  "url": "/26/team/1877/boca-juniors",
+  "name": "Boca Juniors",
+  "ovr": 75,
+  "att": 75,
+  "mid": 74,
+  "def": 73
+ },
+ {
+  "id": 327,
+  "url": "/26/team/327/besiktas",
+  "name": "Besiktas",
+  "ovr": 74,
+  "att": 73,
+  "mid": 75,
+  "def": 74
+ },
+ {
+  "id": 1041,
+  "url": "/26/team/1041/corinthians",
+  "name": "Corinthians",
+  "ovr": 73,
+  "att": 75,
+  "mid": 72,
+  "def": 74
+ },
+ {
+  "id": 236,
+  "url": "/26/team/236/fc-porto",
+  "name": "FC Porto",
+  "ovr": 78,
+  "att": 72,
+  "mid": 78,
+  "def": 79
+ },
+ {
+  "id": 1819,
+  "url": "/26/team/1819/as-saint-etienne",
+  "name": "AS Saint-Étienne",
+  "ovr": 70,
+  "att": 75,
+  "mid": 70,
+  "def": 69
+ },
+ {
+  "id": 1824,
+  "url": "/26/team/1824/eintracht-frankfurt",
+  "name": "Eintracht Frankfurt",
+  "ovr": 77,
+  "att": 82,
+  "mid": 77,
+  "def": 79
+ },
+ {
+  "id": 112540,
+  "url": "/26/team/112540/shanghai-port",
+  "name": "Shanghai Port",
+  "ovr": 67,
+  "att": 74,
+  "mid": 65,
+  "def": 66
+ },
+ {
+  "id": 481,
+  "url": "/26/team/481/sevilla-fc",
+  "name": "Sevilla FC",
+  "ovr": 75,
+  "att": 75,
+  "mid": 75,
+  "def": 75
+ },
+ {
+  "id": 1043,
+  "url": "/26/team/1043/flamengo",
+  "name": "Flamengo",
+  "ovr": 76,
+  "att": 77,
+  "mid": 76,
+  "def": 75
+ },
+ {
+  "id": 160,
+  "url": "/26/team/160/vfl-bochum",
+  "name": "VfL Bochum",
+  "ovr": 69,
+  "att": 69,
+  "mid": 69,
+  "def": 70
+ },
+ {
+  "id": 485,
+  "url": "/26/team/485/hannover-96",
+  "name": "Hannover 96",
+  "ovr": 70,
+  "att": 70,
+  "mid": 71,
+  "def": 69
+ },
+ {
+  "id": 112996,
+  "url": "/26/team/112996/los-angeles-fc",
+  "name": "Los Angeles FC",
+  "ovr": 71,
+  "att": 77,
+  "mid": 71,
+  "def": 70
+ },
+ {
+  "id": 132305,
+  "url": "/26/team/132305/dalian-yingbo-fc",
+  "name": "Dalian Yingbo FC",
+  "ovr": 62,
+  "att": 64,
+  "mid": 63,
+  "def": 61
+ },
+ {
+  "id": 66,
+  "url": "/26/team/66/olympique-lyonnais",
+  "name": "Olympique Lyonnais",
+  "ovr": 77,
+  "att": 76,
+  "mid": 77,
+  "def": 77
+ },
+ {
+  "id": 116327,
+  "url": "/26/team/116327/atletico-de-madrid",
+  "name": "Atlético de Madrid",
+  "ovr": 78,
+  "att": 78,
+  "mid": 76,
+  "def": 78
+ },
+ {
+  "id": 21,
+  "url": "/26/team/21/bayern-munchen",
+  "name": "Bayern München",
+  "ovr": 84,
+  "att": 90,
+  "mid": 85,
+  "def": 83
+ },
+ {
+  "id": 607,
+  "url": "/26/team/607/al-ittihad",
+  "name": "Al Ittihad",
+  "ovr": 74,
+  "att": 76,
+  "mid": 76,
+  "def": 72
+ },
+ {
+  "id": 52,
+  "url": "/26/team/52/roma",
+  "name": "Roma",
+  "ovr": 80,
+  "att": 80,
+  "mid": 80,
+  "def": 80
+ },
+ {
+  "id": 48,
+  "url": "/26/team/48/napoli",
+  "name": "Napoli",
+  "ovr": 81,
+  "att": 78,
+  "mid": 81,
+  "def": 80
+ },
+ {
+  "id": 36,
+  "url": "/26/team/36/vfb-stuttgart",
+  "name": "VfB Stuttgart",
+  "ovr": 77,
+  "att": 80,
+  "mid": 78,
+  "def": 76
+ },
+ {
+  "id": 29,
+  "url": "/26/team/29/1.-fc-kaiserslautern",
+  "name": "1. FC Kaiserslautern",
+  "ovr": 69,
+  "att": 70,
+  "mid": 70,
+  "def": 69
+ },
+ {
+  "id": 28,
+  "url": "/26/team/28/hamburger-sv",
+  "name": "Hamburger SV",
+  "ovr": 74,
+  "att": 72,
+  "mid": 73,
+  "def": 74
+ },
+ {
+  "id": 27,
+  "url": "/26/team/27/hansa-rostock",
+  "name": "Hansa Rostock",
+  "ovr": 66,
+  "att": 66,
+  "mid": 65,
+  "def": 66
+ },
+ {
+  "id": 18,
+  "url": "/26/team/18/tottenham-hotspur",
+  "name": "Tottenham Hotspur",
+  "ovr": 80,
+  "att": 79,
+  "mid": 80,
+  "def": 80
+ },
+ {
+  "id": 131359,
+  "url": "/26/team/131359/ajax",
+  "name": "Ajax",
+  "ovr": 71,
+  "att": 70,
+  "mid": 69,
+  "def": 73
+ },
+ {
+  "id": 116304,
+  "url": "/26/team/116304/washington-spirit",
+  "name": "Washington Spirit",
+  "ovr": 78,
+  "att": 80,
+  "mid": 78,
+  "def": 76
+ },
+ {
+  "id": 116017,
+  "url": "/26/team/116017/manchester-city",
+  "name": "Manchester City",
+  "ovr": 82,
+  "att": 89,
+  "mid": 80,
+  "def": 80
+ },
+ {
+  "id": 209,
+  "url": "/26/team/209/sturm-graz",
+  "name": "Sturm Graz",
+  "ovr": 68,
+  "att": 67,
+  "mid": 69,
+  "def": 68
+ },
+ {
+  "id": 86,
+  "url": "/26/team/86/rangers",
+  "name": "Rangers",
+  "ovr": 74,
+  "att": 73,
+  "mid": 73,
+  "def": 73
+ },
+ {
+  "id": 78,
+  "url": "/26/team/78/celtic",
+  "name": "Celtic",
+  "ovr": 75,
+  "att": 73,
+  "mid": 75,
+  "def": 73
+ },
+ {
+  "id": 116012,
+  "url": "/26/team/116012/manchester-united",
+  "name": "Manchester United",
+  "ovr": 81,
+  "att": 83,
+  "mid": 81,
+  "def": 80
+ },
+ {
+  "id": 110093,
+  "url": "/26/team/110093/independiente",
+  "name": "Independiente",
+  "ovr": 71,
+  "att": 71,
+  "mid": 70,
+  "def": 72
+ },
+ {
+  "id": 131358,
+  "url": "/26/team/131358/benfica",
+  "name": "Benfica",
+  "ovr": 74,
+  "att": 75,
+  "mid": 73,
+  "def": 74
+ },
+ {
+  "id": 110396,
+  "url": "/26/team/110396/newell-s-old-boys",
+  "name": "Newell's Old Boys",
+  "ovr": 68,
+  "att": 69,
+  "mid": 65,
+  "def": 66
+ },
+ {
+  "id": 116004,
+  "url": "/26/team/116004/werder-bremen",
+  "name": "Werder Bremen",
+  "ovr": 73,
+  "att": 75,
+  "mid": 72,
+  "def": 72
+ },
+ {
+  "id": 19,
+  "url": "/26/team/19/west-ham-united",
+  "name": "West Ham United",
+  "ovr": 77,
+  "att": 76,
+  "mid": 78,
+  "def": 77
+ },
+ {
+  "id": 980,
+  "url": "/26/team/980/daejeon-hana-citizen",
+  "name": "Daejeon Hana Citizen",
+  "ovr": 68,
+  "att": 68,
+  "mid": 68,
+  "def": 68
+ },
+ {
+  "id": 23,
+  "url": "/26/team/23/borussia-m-gladbach",
+  "name": "Borussia M'gladbach",
+  "ovr": 75,
+  "att": 77,
+  "mid": 75,
+  "def": 75
+ },
+ {
+  "id": 252,
+  "url": "/26/team/252/lask",
+  "name": "LASK",
+  "ovr": 69,
+  "att": 70,
+  "mid": 68,
+  "def": 69
+ },
+ {
+  "id": 598,
+  "url": "/26/team/598/sao-paulo",
+  "name": "São Paulo",
+  "ovr": 73,
+  "att": 73,
+  "mid": 72,
+  "def": 73
+ },
+ {
+  "id": 246,
+  "url": "/26/team/246/feyenoord",
+  "name": "Feyenoord",
+  "ovr": 75,
+  "att": 76,
+  "mid": 76,
+  "def": 74
+ },
+ {
+  "id": 280,
+  "url": "/26/team/280/olympiacos",
+  "name": "Olympiacos",
+  "ovr": 76,
+  "att": 78,
+  "mid": 76,
+  "def": 75
+ },
+ {
+  "id": 101110,
+  "url": "/26/team/101110/penarol",
+  "name": "Peñarol",
+  "ovr": 72,
+  "att": 73,
+  "mid": 72,
+  "def": 70
+ },
+ {
+  "id": 101108,
+  "url": "/26/team/101108/olimpia-asuncion",
+  "name": "Olimpia Asunción",
+  "ovr": 70,
+  "att": 70,
+  "mid": 70,
+  "def": 69
+ },
+ {
+  "id": 383,
+  "url": "/26/team/383/palmeiras",
+  "name": "Palmeiras",
+  "ovr": 75,
+  "att": 78,
+  "mid": 76,
+  "def": 74
+ },
+ {
+  "id": 1947,
+  "url": "/26/team/1947/wrexham",
+  "name": "Wrexham",
+  "ovr": 70,
+  "att": 70,
+  "mid": 71,
+  "def": 70
+ },
+ {
+  "id": 461,
+  "url": "/26/team/461/valencia-cf",
+  "name": "Valencia CF",
+  "ovr": 76,
+  "att": 76,
+  "mid": 75,
+  "def": 74
+ },
+ {
+  "id": 7,
+  "url": "/26/team/7/everton",
+  "name": "Everton",
+  "ovr": 78,
+  "att": 76,
+  "mid": 78,
+  "def": 77
+ },
+ {
+  "id": 326,
+  "url": "/26/team/326/fenerbahce",
+  "name": "Fenerbahçe",
+  "ovr": 78,
+  "att": 72,
+  "mid": 79,
+  "def": 77
+ },
+ {
+  "id": 8,
+  "url": "/26/team/8/leeds-united",
+  "name": "Leeds United",
+  "ovr": 76,
+  "att": 76,
+  "mid": 77,
+  "def": 76
+ },
+ {
+  "id": 101026,
+  "url": "/26/team/101026/goztepe",
+  "name": "Göztepe",
+  "ovr": 69,
+  "att": 69,
+  "mid": 69,
+  "def": 68
+ },
+ {
+  "id": 436,
+  "url": "/26/team/436/trabzonspor",
+  "name": "Trabzonspor",
+  "ovr": 73,
+  "att": 77,
+  "mid": 72,
+  "def": 73
+ },
+ {
+  "id": 101059,
+  "url": "/26/team/101059/shakhtar-donetsk",
+  "name": "Shakhtar Donetsk",
+  "ovr": 72,
+  "att": 71,
+  "mid": 73,
+  "def": 73
+ },
+ {
+  "id": 13,
+  "url": "/26/team/13/newcastle-united",
+  "name": "Newcastle United",
+  "ovr": 81,
+  "att": 79,
+  "mid": 84,
+  "def": 80
+ },
+ {
+  "id": 101085,
+  "url": "/26/team/101085/racing-club-de-avellaneda",
+  "name": "Racing Club de Avellaneda",
+  "ovr": 74,
+  "att": 78,
+  "mid": 72,
+  "def": 73
+ },
+ {
+  "id": 247,
+  "url": "/26/team/247/psv",
+  "name": "PSV",
+  "ovr": 77,
+  "att": 77,
+  "mid": 78,
+  "def": 76
+ },
+ {
+  "id": 111008,
+  "url": "/26/team/111008/libertad",
+  "name": "Libertad",
+  "ovr": 69,
+  "att": 73,
+  "mid": 68,
+  "def": 69
+ },
+ {
+  "id": 2,
+  "url": "/26/team/2/aston-villa",
+  "name": "Aston Villa",
+  "ovr": 81,
+  "att": 82,
+  "mid": 81,
+  "def": 80
+ },
+ {
+  "id": 95,
+  "url": "/26/team/95/leicester-city",
+  "name": "Leicester City",
+  "ovr": 71,
+  "att": 68,
+  "mid": 72,
+  "def": 70
+ },
+ {
+  "id": 487,
+  "url": "/26/team/487/vfl-osnabruck",
+  "name": "VfL Osnabrück",
+  "ovr": 65,
+  "att": 66,
+  "mid": 65,
+  "def": 66
+ },
+ {
+  "id": 111140,
+  "url": "/26/team/111140/portland-timbers",
+  "name": "Portland Timbers",
+  "ovr": 68,
+  "att": 68,
+  "mid": 69,
+  "def": 68
+ },
+ {
+  "id": 896,
+  "url": "/26/team/896/fc-basel",
+  "name": "FC Basel",
+  "ovr": 71,
+  "att": 68,
+  "mid": 71,
+  "def": 70
+ },
+ {
+  "id": 111144,
+  "url": "/26/team/111144/seattle-sounders",
+  "name": "Seattle Sounders",
+  "ovr": 70,
+  "att": 73,
+  "mid": 70,
+  "def": 68
+ },
+ {
+  "id": 111325,
+  "url": "/26/team/111325/nacional",
+  "name": "Nacional",
+  "ovr": 71,
+  "att": 73,
+  "mid": 69,
+  "def": 72
+ },
+ {
+  "id": 900,
+  "url": "/26/team/900/bsc-young-boys",
+  "name": "BSC Young Boys",
+  "ovr": 71,
+  "att": 71,
+  "mid": 72,
+  "def": 69
+ },
+ {
+  "id": 112716,
+  "url": "/26/team/112716/cerro-porteno",
+  "name": "Cerro Porteño",
+  "ovr": 70,
+  "att": 72,
+  "mid": 68,
+  "def": 71
+ },
+ {
+  "id": 71,
+  "url": "/26/team/71/fc-nantes",
+  "name": "FC Nantes",
+  "ovr": 72,
+  "att": 71,
+  "mid": 72,
+  "def": 72
+ },
+ {
+  "id": 111768,
+  "url": "/26/team/111768/beijing-guoan",
+  "name": "Beijing Guoan",
+  "ovr": 65,
+  "att": 67,
+  "mid": 65,
+  "def": 65
+ },
+ {
+  "id": 64,
+  "url": "/26/team/64/rc-lens",
+  "name": "RC Lens",
+  "ovr": 77,
+  "att": 77,
+  "mid": 78,
+  "def": 76
+ },
+ {
+  "id": 116311,
+  "url": "/26/team/116311/angel-city-fc",
+  "name": "Angel City FC",
+  "ovr": 74,
+  "att": 79,
+  "mid": 73,
+  "def": 71
+ },
+ {
+  "id": 171,
+  "url": "/26/team/171/1.-fc-nurnberg",
+  "name": "1. FC Nürnberg",
+  "ovr": 68,
+  "att": 68,
+  "mid": 69,
+  "def": 68
+ },
+ {
+  "id": 112387,
+  "url": "/26/team/112387/al-ahli",
+  "name": "Al Ahli",
+  "ovr": 74,
+  "att": 77,
+  "mid": 74,
+  "def": 73
+ },
+ {
+  "id": 116033,
+  "url": "/26/team/116033/ol-lyonnes",
+  "name": "OL Lyonnes",
+  "ovr": 84,
+  "att": 85,
+  "mid": 82,
+  "def": 84
+ },
+ {
+  "id": 116328,
+  "url": "/26/team/116328/athletic-club-de-bilbao",
+  "name": "Athletic Club de Bilbao",
+  "ovr": 75,
+  "att": 72,
+  "mid": 75,
+  "def": 77
+ },
+ {
+  "id": 242,
+  "url": "/26/team/242/rc-deportivo",
+  "name": "RC Deportivo",
+  "ovr": 71,
+  "att": 70,
+  "mid": 72,
+  "def": 71
+ },
+ {
+  "id": 116343,
+  "url": "/26/team/116343/liverpool",
+  "name": "Liverpool",
+  "ovr": 75,
+  "att": 73,
+  "mid": 75,
+  "def": 74
+ },
+ {
+  "id": 237,
+  "url": "/26/team/237/sporting-cp",
+  "name": "Sporting CP",
+  "ovr": 79,
+  "att": 78,
+  "mid": 80,
+  "def": 78
+ },
+ {
+  "id": 38,
+  "url": "/26/team/38/werder-bremen",
+  "name": "Werder Bremen",
+  "ovr": 75,
+  "att": 73,
+  "mid": 76,
+  "def": 74
+ },
+ {
+  "id": 116034,
+  "url": "/26/team/116034/paris-saint-germain",
+  "name": "Paris Saint-Germain",
+  "ovr": 80,
+  "att": 78,
+  "mid": 80,
+  "def": 80
+ },
+ {
+  "id": 110981,
+  "url": "/26/team/110981/barcelona-sc-guayaquil",
+  "name": "Barcelona SC Guayaquil",
+  "ovr": 69,
+  "att": 70,
+  "mid": 67,
+  "def": 69
+ },
+ {
+  "id": 76,
+  "url": "/26/team/76/rc-strasbourg",
+  "name": "RC Strasbourg",
+  "ovr": 75,
+  "att": 75,
+  "mid": 75,
+  "def": 75
+ },
+ {
+  "id": 116282,
+  "url": "/26/team/116282/roma",
+  "name": "Roma",
+  "ovr": 76,
+  "att": 78,
+  "mid": 79,
+  "def": 73
+ },
+ {
+  "id": 115845,
+  "url": "/26/team/115845/bergamo-calcio",
+  "name": "Bergamo Calcio",
+  "ovr": 79,
+  "att": 77,
+  "mid": 78,
+  "def": 78
+ },
+ {
+  "id": 1013,
+  "url": "/26/team/1013/san-lorenzo-de-almagro",
+  "name": "San Lorenzo de Almagro",
+  "ovr": 70,
+  "att": 70,
+  "mid": 68,
+  "def": 62
+ },
+ {
+  "id": 1837,
+  "url": "/26/team/1837/sampdoria",
+  "name": "Sampdoria",
+  "ovr": 70,
+  "att": 73,
+  "mid": 70,
+  "def": 69
+ },
+ {
+  "id": 674,
+  "url": "/26/team/674/gent",
+  "name": "Gent",
+  "ovr": 70,
+  "att": 70,
+  "mid": 71,
+  "def": 70
+ },
+ {
+  "id": 1832,
+  "url": "/26/team/1832/karlsruher-sc",
+  "name": "Karlsruher SC",
+  "ovr": 69,
+  "att": 68,
+  "mid": 69,
+  "def": 69
+ },
+ {
+  "id": 673,
+  "url": "/26/team/673/genk",
+  "name": "Genk",
+  "ovr": 73,
+  "att": 71,
+  "mid": 73,
+  "def": 74
+ },
+ {
+  "id": 819,
+  "url": "/26/team/819/fc-kobenhavn",
+  "name": "FC København",
+  "ovr": 71,
+  "att": 73,
+  "mid": 71,
+  "def": 71
+ },
+ {
+  "id": 1826,
+  "url": "/26/team/1826/alemannia-aachen",
+  "name": "Alemannia Aachen",
+  "ovr": 65,
+  "att": 65,
+  "mid": 64,
+  "def": 64
+ },
+ {
+  "id": 1794,
+  "url": "/26/team/1794/sheffield-united",
+  "name": "Sheffield United",
+  "ovr": 71,
+  "att": 71,
+  "mid": 72,
+  "def": 71
+ },
+ {
+  "id": 1053,
+  "url": "/26/team/1053/santos",
+  "name": "Santos",
+  "ovr": 74,
+  "att": 74,
+  "mid": 72,
+  "def": 75
+ },
+ {
+  "id": 1035,
+  "url": "/26/team/1035/atletico-mineiro",
+  "name": "Atlético Mineiro",
+  "ovr": 75,
+  "att": 77,
+  "mid": 75,
+  "def": 76
+ },
+ {
+  "id": 696,
+  "url": "/26/team/696/sporting-kc",
+  "name": "Sporting KC",
+  "ovr": 65,
+  "att": 75,
+  "mid": 65,
+  "def": 62
+ },
+ {
+  "id": 1629,
+  "url": "/26/team/1629/gremio",
+  "name": "Grêmio",
+  "ovr": 72,
+  "att": 72,
+  "mid": 71,
+  "def": 72
+ },
+ {
+  "id": 1799,
+  "url": "/26/team/1799/crystal-palace",
+  "name": "Crystal Palace",
+  "ovr": 79,
+  "att": 79,
+  "mid": 78,
+  "def": 79
+ },
+ {
+  "id": 894,
+  "url": "/26/team/894/fc-zurich",
+  "name": "FC Zürich",
+  "ovr": 66,
+  "att": 64,
+  "mid": 64,
+  "def": 65
+ },
+ {
+  "id": 1825,
+  "url": "/26/team/1825/msv-duisburg",
+  "name": "MSV Duisburg",
+  "ovr": 65,
+  "att": 67,
+  "mid": 65,
+  "def": 64
+ },
+ {
+  "id": 573,
+  "url": "/26/team/573/malaga-cf",
+  "name": "Málaga CF",
+  "ovr": 69,
+  "att": 71,
+  "mid": 69,
+  "def": 67
+ },
+ {
+  "id": 1884,
+  "url": "/26/team/1884/panathinaikos",
+  "name": "Panathinaikos",
+  "ovr": 73,
+  "att": 73,
+  "mid": 73,
+  "def": 73
+ },
+ {
+  "id": 111138,
+  "url": "/26/team/111138/minnesota-united-fc",
+  "name": "Minnesota United FC",
+  "ovr": 69,
+  "att": 71,
+  "mid": 70,
+  "def": 68
+ },
+ {
+  "id": 111629,
+  "url": "/26/team/111629/east-bengal-fc",
+  "name": "East Bengal FC",
+  "ovr": 59,
+  "att": 60,
+  "mid": 60,
+  "def": 58
+ },
+ {
+  "id": 112606,
+  "url": "/26/team/112606/orlando-city-sc",
+  "name": "Orlando City SC",
+  "ovr": 69,
+  "att": 68,
+  "mid": 70,
+  "def": 68
+ },
+ {
+  "id": 112828,
+  "url": "/26/team/112828/new-york-city-fc",
+  "name": "New York City FC",
+  "ovr": 69,
+  "att": 72,
+  "mid": 70,
+  "def": 66
+ },
+ {
+  "id": 112885,
+  "url": "/26/team/112885/atlanta-united-fc",
+  "name": "Atlanta United FC",
+  "ovr": 70,
+  "att": 70,
+  "mid": 72,
+  "def": 68
+ },
+ {
+  "id": 113146,
+  "url": "/26/team/113146/mohun-bagan-super-giant",
+  "name": "Mohun Bagan Super Giant",
+  "ovr": 65,
+  "att": 69,
+  "mid": 63,
+  "def": 65
+ },
+ {
+  "id": 113299,
+  "url": "/26/team/113299/kerala-blasters-fc",
+  "name": "Kerala Blasters FC",
+  "ovr": 54,
+  "att": 56,
+  "mid": 55,
+  "def": 53
+ },
+ {
+  "id": 114161,
+  "url": "/26/team/114161/austin-fc",
+  "name": "Austin FC",
+  "ovr": 69,
+  "att": 69,
+  "mid": 68,
+  "def": 67
+ },
+ {
+  "id": 115998,
+  "url": "/26/team/115998/vfl-wolfsburg",
+  "name": "VfL Wolfsburg",
+  "ovr": 80,
+  "att": 81,
+  "mid": 81,
+  "def": 78
+ },
+ {
+  "id": 116002,
+  "url": "/26/team/116002/sc-freiburg",
+  "name": "SC Freiburg",
+  "ovr": 74,
+  "att": 74,
+  "mid": 74,
+  "def": 74
+ },
+ {
+  "id": 116280,
+  "url": "/26/team/116280/juventus",
+  "name": "Juventus",
+  "ovr": 76,
+  "att": 69,
+  "mid": 79,
+  "def": 77
+ },
+ {
+  "id": 116302,
+  "url": "/26/team/116302/portland-thorns-fc",
+  "name": "Portland Thorns FC",
+  "ovr": 76,
+  "att": 79,
+  "mid": 74,
+  "def": 72
+ },
+ {
+  "id": 116307,
+  "url": "/26/team/116307/orlando-pride",
+  "name": "Orlando Pride",
+  "ovr": 77,
+  "att": 79,
+  "mid": 76,
+  "def": 76
+ },
+ {
+  "id": 116310,
+  "url": "/26/team/116310/gotham-fc",
+  "name": "Gotham FC",
+  "ovr": 78,
+  "att": 77,
+  "mid": 78,
+  "def": 77
+ },
+ {
+  "id": 116336,
+  "url": "/26/team/116336/real-sociedad",
+  "name": "Real Sociedad",
+  "ovr": 75,
+  "att": 74,
+  "mid": 76,
+  "def": 74
+ },
+ {
+  "id": 116337,
+  "url": "/26/team/116337/sevilla-fc",
+  "name": "Sevilla FC",
+  "ovr": 73,
+  "att": 72,
+  "mid": 75,
+  "def": 70
+ },
+ {
+  "id": 116360,
+  "url": "/26/team/116360/chengdu-rongcheng-f.c.",
+  "name": "Chengdu Rongcheng F.C.",
+  "ovr": 65,
+  "att": 67,
+  "mid": 68,
+  "def": 62
+ },
+ {
+  "id": 111065,
+  "url": "/26/team/111065/real-salt-lake",
+  "name": "Real Salt Lake",
+  "ovr": 69,
+  "att": 65,
+  "mid": 68,
+  "def": 68
+ },
+ {
+  "id": 111014,
+  "url": "/26/team/111014/universitario-de-deportes",
+  "name": "Universitario de Deportes",
+  "ovr": 70,
+  "att": 70,
+  "mid": 70,
+  "def": 71
+ },
+ {
+  "id": 111013,
+  "url": "/26/team/111013/sporting-cristal",
+  "name": "Sporting Cristal",
+  "ovr": 69,
+  "att": 69,
+  "mid": 69,
+  "def": 69
+ },
+ {
+  "id": 1887,
+  "url": "/26/team/1887/vitoria-de-guimaraes",
+  "name": "Vitória de Guimarães",
+  "ovr": 69,
+  "att": 70,
+  "mid": 67,
+  "def": 69
+ },
+ {
+  "id": 2056,
+  "url": "/26/team/2056/daegu-fc",
+  "name": "Daegu FC",
+  "ovr": 64,
+  "att": 63,
+  "mid": 65,
+  "def": 60
+ },
+ {
+  "id": 101025,
+  "url": "/26/team/101025/genclerbirligi",
+  "name": "Gençlerbirligi",
+  "ovr": 67,
+  "att": 69,
+  "mid": 66,
+  "def": 67
+ },
+ {
+  "id": 101032,
+  "url": "/26/team/101032/kocaelispor",
+  "name": "Kocaelispor",
+  "ovr": 69,
+  "att": 71,
+  "mid": 67,
+  "def": 70
+ },
+ {
+  "id": 101047,
+  "url": "/26/team/101047/dynamo-kyiv",
+  "name": "Dynamo Kyiv",
+  "ovr": 72,
+  "att": 69,
+  "mid": 73,
+  "def": 71
+ },
+ {
+  "id": 101083,
+  "url": "/26/team/101083/estudiantes-de-la-plata",
+  "name": "Estudiantes de La Plata",
+  "ovr": 73,
+  "att": 76,
+  "mid": 73,
+  "def": 73
+ },
+ {
+  "id": 101099,
+  "url": "/26/team/101099/america-de-cali",
+  "name": "América de Cali",
+  "ovr": 70,
+  "att": 71,
+  "mid": 70,
+  "def": 69
+ },
+ {
+  "id": 101103,
+  "url": "/26/team/101103/independiente-medellin",
+  "name": "Independiente Medellín",
+  "ovr": 70,
+  "att": 71,
+  "mid": 69,
+  "def": 70
+ },
+ {
+  "id": 101105,
+  "url": "/26/team/101105/millonarios",
+  "name": "Millonarios",
+  "ovr": 70,
+  "att": 71,
+  "mid": 70,
+  "def": 68
+ },
+ {
+  "id": 101112,
+  "url": "/26/team/101112/vancouver-whitecaps",
+  "name": "Vancouver Whitecaps",
+  "ovr": 71,
+  "att": 73,
+  "mid": 73,
+  "def": 67
+ },
+ {
+  "id": 110374,
+  "url": "/26/team/110374/fiorentina",
+  "name": "Fiorentina",
+  "ovr": 76,
+  "att": 77,
+  "mid": 75,
+  "def": 75
+ },
+ {
+  "id": 110500,
+  "url": "/26/team/110500/eintracht-braunschweig",
+  "name": "Eintracht Braunschweig",
+  "ovr": 67,
+  "att": 67,
+  "mid": 67,
+  "def": 67
+ },
+ {
+  "id": 110502,
+  "url": "/26/team/110502/sv-darmstadt-98",
+  "name": "SV Darmstadt 98",
+  "ovr": 70,
+  "att": 72,
+  "mid": 70,
+  "def": 69
+ },
+ {
+  "id": 110532,
+  "url": "/26/team/110532/sv-waldhof-mannheim",
+  "name": "SV Waldhof Mannheim",
+  "ovr": 64,
+  "att": 65,
+  "mid": 63,
+  "def": 64
+ },
+ {
+  "id": 110580,
+  "url": "/26/team/110580/rosario-central",
+  "name": "Rosario Central",
+  "ovr": 73,
+  "att": 72,
+  "mid": 74,
+  "def": 70
+ },
+ {
+  "id": 110588,
+  "url": "/26/team/110588/1.-fc-magdeburg",
+  "name": "1. FC Magdeburg",
+  "ovr": 68,
+  "att": 70,
+  "mid": 68,
+  "def": 68
+ },
+ {
+  "id": 110986,
+  "url": "/26/team/110986/ldu-quito",
+  "name": "LDU Quito",
+  "ovr": 70,
+  "att": 69,
+  "mid": 69,
+  "def": 70
+ },
+ {
+  "id": 131360,
+  "url": "/26/team/131360/slavia-praha",
+  "name": "Slavia Praha",
+  "ovr": 70,
+  "att": 68,
+  "mid": 71,
+  "def": 69
+ },
+ {
+  "id": 569,
+  "url": "/26/team/569/vasco-da-gama",
+  "name": "Vasco da Gama",
+  "ovr": 70,
+  "att": 70,
+  "mid": 69,
+  "def": 70
+ },
+ {
+  "id": 568,
+  "url": "/26/team/568/cruzeiro",
+  "name": "Cruzeiro",
+  "ovr": 72,
+  "att": 75,
+  "mid": 71,
+  "def": 73
+ },
+ {
+  "id": 81,
+  "url": "/26/team/81/hibernian",
+  "name": "Hibernian",
+  "ovr": 68,
+  "att": 67,
+  "mid": 68,
+  "def": 67
+ },
+ {
+  "id": 80,
+  "url": "/26/team/80/heart-of-midlothian",
+  "name": "Heart of Midlothian",
+  "ovr": 71,
+  "att": 72,
+  "mid": 72,
+  "def": 70
+ },
+ {
+  "id": 457,
+  "url": "/26/team/457/real-sociedad",
+  "name": "Real Sociedad",
+  "ovr": 78,
+  "att": 83,
+  "mid": 78,
+  "def": 76
+ },
+ {
+  "id": 523,
+  "url": "/26/team/523/1.-fc-saarbrucken",
+  "name": "1. FC Saarbrücken",
+  "ovr": 65,
+  "att": 66,
+  "mid": 65,
+  "def": 64
+ },
+ {
+  "id": 88,
+  "url": "/26/team/88/birmingham-city",
+  "name": "Birmingham City",
+  "ovr": 72,
+  "att": 72,
+  "mid": 72,
+  "def": 73
+ },
+ {
+  "id": 189,
+  "url": "/26/team/189/bologna",
+  "name": "Bologna",
+  "ovr": 76,
+  "att": 77,
+  "mid": 77,
+  "def": 74
+ },
+ {
+  "id": 278,
+  "url": "/26/team/278/aek",
+  "name": "AEK",
+  "ovr": 75,
+  "att": 77,
+  "mid": 75,
+  "def": 74
+ },
+ {
+  "id": 106,
+  "url": "/26/team/106/sunderland",
+  "name": "Sunderland",
+  "ovr": 77,
+  "att": 76,
+  "mid": 78,
+  "def": 78
+ },
+ {
+  "id": 231,
+  "url": "/26/team/231/club-brugge",
+  "name": "Club Brugge",
+  "ovr": 74,
+  "att": 72,
+  "mid": 76,
+  "def": 74
+ },
+ {
+  "id": 110,
+  "url": "/26/team/110/wolverhampton-wanderers",
+  "name": "Wolverhampton Wanderers",
+  "ovr": 75,
+  "att": 74,
+  "mid": 75,
+  "def": 74
+ },
+ {
+  "id": 166,
+  "url": "/26/team/166/hertha-bsc",
+  "name": "Hertha BSC",
+  "ovr": 70,
+  "att": 71,
+  "mid": 70,
+  "def": 69
+ },
+ {
+  "id": 162,
+  "url": "/26/team/162/energie-cottbus",
+  "name": "Energie Cottbus",
+  "ovr": 65,
+  "att": 65,
+  "mid": 65,
+  "def": 64
+ },
+ {
+  "id": 483,
+  "url": "/26/team/483/villarreal-cf",
+  "name": "Villarreal CF",
+  "ovr": 79,
+  "att": 80,
+  "mid": 80,
+  "def": 77
+ },
+ {
+  "id": 322,
+  "url": "/26/team/322/grasshopper-club-zurich",
+  "name": "Grasshopper Club Zürich",
+  "ovr": 65,
+  "att": 66,
+  "mid": 64,
+  "def": 62
+ },
+ {
+  "id": 393,
+  "url": "/26/team/393/paok",
+  "name": "PAOK",
+  "ovr": 74,
+  "att": 76,
+  "mid": 76,
+  "def": 73
+ },
+ {
+  "id": 452,
+  "url": "/26/team/452/rcd-espanyol",
+  "name": "RCD Espanyol",
+  "ovr": 75,
+  "att": 73,
+  "mid": 74,
+  "def": 76
+ },
+ {
+  "id": 211,
+  "url": "/26/team/211/dinamo-zagreb",
+  "name": "Dinamo Zagreb",
+  "ovr": 72,
+  "att": 71,
+  "mid": 74,
+  "def": 71
+ },
+ {
+  "id": 14,
+  "url": "/26/team/14/nottingham-forest",
+  "name": "Nottingham Forest",
+  "ovr": 79,
+  "att": 79,
+  "mid": 78,
+  "def": 80
+ },
+ {
+  "id": 17,
+  "url": "/26/team/17/southampton",
+  "name": "Southampton",
+  "ovr": 72,
+  "att": 74,
+  "mid": 72,
+  "def": 72
+ },
+ {
+  "id": 229,
+  "url": "/26/team/229/anderlecht",
+  "name": "Anderlecht",
+  "ovr": 72,
+  "att": 74,
+  "mid": 71,
+  "def": 71
+ },
+ {
+  "id": 450,
+  "url": "/26/team/450/rc-celta-de-vigo",
+  "name": "RC Celta de Vigo",
+  "ovr": 76,
+  "att": 79,
+  "mid": 75,
+  "def": 77
+ },
+ {
+  "id": 448,
+  "url": "/26/team/448/athletic-club-de-bilbao",
+  "name": "Athletic Club de Bilbao",
+  "ovr": 80,
+  "att": 79,
+  "mid": 81,
+  "def": 79
+ },
+ {
+  "id": 72,
+  "url": "/26/team/72/ogc-nice",
+  "name": "OGC Nice",
+  "ovr": 75,
+  "att": 74,
+  "mid": 76,
+  "def": 74
+ },
+ {
+  "id": 232,
+  "url": "/26/team/232/standard-liege",
+  "name": "Standard Liège",
+  "ovr": 70,
+  "att": 70,
+  "mid": 69,
+  "def": 69
+ },
+ {
+  "id": 306,
+  "url": "/26/team/306/shamrock-rovers",
+  "name": "Shamrock Rovers",
+  "ovr": 64,
+  "att": 65,
+  "mid": 63,
+  "def": 64
+ },
+ {
+  "id": 298,
+  "url": "/26/team/298/rosenborg-bk",
+  "name": "Rosenborg BK",
+  "ovr": 68,
+  "att": 64,
+  "mid": 69,
+  "def": 67
+ },
+ {
+  "id": 101101,
+  "url": "/26/team/101101/junior-de-barranquilla",
+  "name": "Junior de Barranquilla",
+  "ovr": 70,
+  "att": 72,
+  "mid": 70,
+  "def": 69
+ },
+ {
+  "id": 101088,
+  "url": "/26/team/101088/velez-sarsfield",
+  "name": "Vélez Sarsfield",
+  "ovr": 73,
+  "att": 73,
+  "mid": 71,
+  "def": 73
+ },
+ {
+  "id": 101104,
+  "url": "/26/team/101104/independiente-santa-fe",
+  "name": "Independiente Santa Fe",
+  "ovr": 70,
+  "att": 73,
+  "mid": 70,
+  "def": 69
+ },
+ {
+  "id": 110975,
+  "url": "/26/team/110975/universidad-catolica",
+  "name": "Universidad Católica",
+  "ovr": 69,
+  "att": 71,
+  "mid": 68,
+  "def": 68
+ },
+ {
+  "id": 263,
+  "url": "/26/team/263/hajduk-split",
+  "name": "Hajduk Split",
+  "ovr": 70,
+  "att": 71,
+  "mid": 70,
+  "def": 69
+ },
+ {
+  "id": 110636,
+  "url": "/26/team/110636/fortuna-dusseldorf",
+  "name": "Fortuna Düsseldorf",
+  "ovr": 69,
+  "att": 70,
+  "mid": 69,
+  "def": 68
+ },
+ {
+  "id": 110770,
+  "url": "/26/team/110770/fc-sion",
+  "name": "FC Sion",
+  "ovr": 67,
+  "att": 67,
+  "mid": 67,
+  "def": 68
+ },
+ {
+  "id": 244,
+  "url": "/26/team/244/real-zaragoza",
+  "name": "Real Zaragoza",
+  "ovr": 69,
+  "att": 69,
+  "mid": 67,
+  "def": 69
+ },
+ {
+  "id": 266,
+  "url": "/26/team/266/slavia-praha",
+  "name": "Slavia Praha",
+  "ovr": 75,
+  "att": 75,
+  "mid": 75,
+  "def": 74
+ },
+ {
+  "id": 110968,
+  "url": "/26/team/110968/bolivar",
+  "name": "Bolívar",
+  "ovr": 68,
+  "att": 68,
+  "mid": 68,
+  "def": 66
+ },
+ {
+  "id": 267,
+  "url": "/26/team/267/sparta-praha",
+  "name": "Sparta Praha",
+  "ovr": 73,
+  "att": 74,
+  "mid": 73,
+  "def": 72
+ },
+ {
+  "id": 256,
+  "url": "/26/team/256/austria-wien",
+  "name": "Austria Wien",
+  "ovr": 67,
+  "att": 68,
+  "mid": 66,
+  "def": 68
+ },
+ {
+  "id": 110556,
+  "url": "/26/team/110556/genoa",
+  "name": "Genoa",
+  "ovr": 73,
+  "att": 73,
+  "mid": 72,
+  "def": 73
+ },
+ {
+  "id": 320,
+  "url": "/26/team/320/malmo-ff",
+  "name": "Malmö FF",
+  "ovr": 68,
+  "att": 69,
+  "mid": 65,
+  "def": 68
+ },
+ {
+  "id": 1874,
+  "url": "/26/team/1874/ferencvarosi-tc",
+  "name": "Ferencvárosi TC",
+  "ovr": 71,
+  "att": 70,
+  "mid": 71,
+  "def": 68
+ },
+ {
+  "id": 1848,
+  "url": "/26/team/1848/bari",
+  "name": "Bari",
+  "ovr": 68,
+  "att": 68,
+  "mid": 69,
+  "def": 67
+ },
+ {
+  "id": 1843,
+  "url": "/26/team/1843/palermo",
+  "name": "Palermo",
+  "ovr": 72,
+  "att": 73,
+  "mid": 72,
+  "def": 72
+ },
+ {
+  "id": 1808,
+  "url": "/26/team/1808/brighton-hove-albion",
+  "name": "Brighton & Hove Albion",
+  "ovr": 78,
+  "att": 80,
+  "mid": 79,
+  "def": 78
+ },
+ {
+  "id": 1807,
+  "url": "/26/team/1807/sheffield-wednesday",
+  "name": "Sheffield Wednesday",
+  "ovr": 67,
+  "att": 68,
+  "mid": 65,
+  "def": 66
+ },
+ {
+  "id": 1806,
+  "url": "/26/team/1806/stoke-city",
+  "name": "Stoke City",
+  "ovr": 70,
+  "att": 68,
+  "mid": 70,
+  "def": 70
+ },
+ {
+  "id": 1800,
+  "url": "/26/team/1800/coventry-city",
+  "name": "Coventry City",
+  "ovr": 73,
+  "att": 73,
+  "mid": 73,
+  "def": 72
+ },
+ {
+  "id": 449,
+  "url": "/26/team/449/real-betis-balompie",
+  "name": "Real Betis Balompié",
+  "ovr": 79,
+  "att": 80,
+  "mid": 80,
+  "def": 77
+ },
+ {
+  "id": 1795,
+  "url": "/26/team/1795/watford",
+  "name": "Watford",
+  "ovr": 70,
+  "att": 68,
+  "mid": 71,
+  "def": 69
+ },
+ {
+  "id": 1792,
+  "url": "/26/team/1792/norwich-city",
+  "name": "Norwich City",
+  "ovr": 70,
+  "att": 70,
+  "mid": 70,
+  "def": 69
+ },
+ {
+  "id": 1896,
+  "url": "/26/team/1896/sporting-de-braga",
+  "name": "Sporting de Braga",
+  "ovr": 75,
+  "att": 76,
+  "mid": 76,
+  "def": 73
+ },
+ {
+  "id": 1903,
+  "url": "/26/team/1903/fc-utrecht",
+  "name": "FC Utrecht",
+  "ovr": 72,
+  "att": 71,
+  "mid": 71,
+  "def": 71
+ },
+ {
+  "id": 324,
+  "url": "/26/team/324/servette-fc",
+  "name": "Servette FC",
+  "ovr": 69,
+  "att": 69,
+  "mid": 69,
+  "def": 68
+ },
+ {
+  "id": 100761,
+  "url": "/26/team/100761/fcsb",
+  "name": "FCSB",
+  "ovr": 68,
+  "att": 69,
+  "mid": 71,
+  "def": 66
+ },
+ {
+  "id": 100409,
+  "url": "/26/team/100409/fc-augsburg",
+  "name": "FC Augsburg",
+  "ovr": 74,
+  "att": 75,
+  "mid": 74,
+  "def": 75
+ },
+ {
+  "id": 15005,
+  "url": "/26/team/15005/zulte-waregem",
+  "name": "Zulte Waregem",
+  "ovr": 68,
+  "att": 68,
+  "mid": 69,
+  "def": 66
+ },
+ {
+  "id": 2014,
+  "url": "/26/team/2014/union-saint-gilloise",
+  "name": "Union Saint-Gilloise",
+  "ovr": 74,
+  "att": 73,
+  "mid": 74,
+  "def": 75
+ },
+ {
+  "id": 1968,
+  "url": "/26/team/1968/cadiz-cf",
+  "name": "Cádiz CF",
+  "ovr": 68,
+  "att": 68,
+  "mid": 68,
+  "def": 67
+ },
+ {
+  "id": 1961,
+  "url": "/26/team/1961/cardiff-city",
+  "name": "Cardiff City",
+  "ovr": 68,
+  "att": 66,
+  "mid": 67,
+  "def": 68
+ },
+ {
+  "id": 1919,
+  "url": "/26/team/1919/bristol-city",
+  "name": "Bristol City",
+  "ovr": 71,
+  "att": 71,
+  "mid": 71,
+  "def": 70
+ },
+ {
+  "id": 1908,
+  "url": "/26/team/1908/fc-twente",
+  "name": "FC Twente",
+  "ovr": 71,
+  "att": 71,
+  "mid": 70,
+  "def": 70
+ },
+ {
+  "id": 1906,
+  "url": "/26/team/1906/az",
+  "name": "AZ",
+  "ovr": 73,
+  "att": 75,
+  "mid": 73,
+  "def": 71
+ },
+ {
+  "id": 1745,
+  "url": "/26/team/1745/como",
+  "name": "Como",
+  "ovr": 77,
+  "att": 77,
+  "mid": 77,
+  "def": 75
+ },
+ {
+  "id": 132533,
+  "url": "/26/team/132533/hamburger-sv",
+  "name": "Hamburger SV",
+  "ovr": 70,
+  "att": 71,
+  "mid": 70,
+  "def": 69
+ },
+ {
+  "id": 77,
+  "url": "/26/team/77/aberdeen",
+  "name": "Aberdeen",
+  "ovr": 68,
+  "att": 66,
+  "mid": 69,
+  "def": 63
+ },
+ {
+  "id": 116035,
+  "url": "/26/team/116035/paris-fc",
+  "name": "Paris FC",
+  "ovr": 77,
+  "att": 85,
+  "mid": 78,
+  "def": 77
+ },
+ {
+  "id": 116021,
+  "url": "/26/team/116021/rb-leipzig",
+  "name": "RB Leipzig",
+  "ovr": 74,
+  "att": 70,
+  "mid": 74,
+  "def": 73
+ },
+ {
+  "id": 116015,
+  "url": "/26/team/116015/aston-villa",
+  "name": "Aston Villa",
+  "ovr": 76,
+  "att": 76,
+  "mid": 75,
+  "def": 76
+ },
+ {
+  "id": 116011,
+  "url": "/26/team/116011/tottenham-hotspur",
+  "name": "Tottenham Hotspur",
+  "ovr": 76,
+  "att": 72,
+  "mid": 76,
+  "def": 75
+ },
+ {
+  "id": 91,
+  "url": "/26/team/91/derby-county",
+  "name": "Derby County",
+  "ovr": 70,
+  "att": 74,
+  "mid": 70,
+  "def": 69
+ },
+ {
+  "id": 116003,
+  "url": "/26/team/116003/1.-fc-koln",
+  "name": "1. FC Köln",
+  "ovr": 74,
+  "att": 75,
+  "mid": 73,
+  "def": 73
+ },
+ {
+  "id": 115996,
+  "url": "/26/team/115996/bayer-04-leverkusen",
+  "name": "Bayer 04 Leverkusen",
+  "ovr": 76,
+  "att": 78,
+  "mid": 75,
+  "def": 76
+ },
+ {
+  "id": 132681,
+  "url": "/26/team/132681/united-tigers-sc",
+  "name": "United Tigers SC",
+  "ovr": 59,
+  "att": 58,
+  "mid": 58,
+  "def": 60
+ },
+ {
+  "id": 74,
+  "url": "/26/team/74/stade-rennais",
+  "name": "Stade Rennais",
+  "ovr": 76,
+  "att": 78,
+  "mid": 76,
+  "def": 74
+ },
+ {
+  "id": 65,
+  "url": "/26/team/65/losc-lille",
+  "name": "LOSC Lille",
+  "ovr": 77,
+  "att": 77,
+  "mid": 77,
+  "def": 76
+ },
+ {
+  "id": 116312,
+  "url": "/26/team/116312/san-diego-wave-fc",
+  "name": "San Diego Wave FC",
+  "ovr": 74,
+  "att": 75,
+  "mid": 73,
+  "def": 72
+ },
+ {
+  "id": 131798,
+  "url": "/26/team/131798/neom-sc",
+  "name": "NEOM SC",
+  "ovr": 70,
+  "att": 71,
+  "mid": 71,
+  "def": 68
+ },
+ {
+  "id": 131733,
+  "url": "/26/team/131733/rcd-espanyol",
+  "name": "RCD Espanyol",
+  "ovr": 71,
+  "att": 71,
+  "mid": 72,
+  "def": 70
+ },
+ {
+  "id": 12,
+  "url": "/26/team/12/middlesbrough",
+  "name": "Middlesbrough",
+  "ovr": 72,
+  "att": 70,
+  "mid": 72,
+  "def": 72
+ },
+ {
+  "id": 131478,
+  "url": "/26/team/131478/utah-royals",
+  "name": "Utah Royals",
+  "ovr": 75,
+  "att": 78,
+  "mid": 75,
+  "def": 73
+ },
+ {
+  "id": 131439,
+  "url": "/26/team/131439/san-diego-fc",
+  "name": "San Diego FC",
+  "ovr": 68,
+  "att": 73,
+  "mid": 68,
+  "def": 62
+ },
+ {
+  "id": 131368,
+  "url": "/26/team/131368/ng-fa-women",
+  "name": "NG - FA Women",
+  "ovr": 0,
+  "att": 0,
+  "mid": 0,
+  "def": 0
+ },
+ {
+  "id": 25,
+  "url": "/26/team/25/sc-freiburg",
+  "name": "SC Freiburg",
+  "ovr": 75,
+  "att": 74,
+  "mid": 75,
+  "def": 76
+ },
+ {
+  "id": 54,
+  "url": "/26/team/54/torino",
+  "name": "Torino",
+  "ovr": 75,
+  "att": 78,
+  "mid": 73,
+  "def": 74
+ },
+ {
+  "id": 116333,
+  "url": "/26/team/116333/levante-ud",
+  "name": "Levante UD",
+  "ovr": 70,
+  "att": 69,
+  "mid": 69,
+  "def": 68
+ },
+ {
+  "id": 109,
+  "url": "/26/team/109/west-bromwich-albion",
+  "name": "West Bromwich Albion",
+  "ovr": 70,
+  "att": 70,
+  "mid": 70,
+  "def": 69
+ },
+ {
+  "id": 115693,
+  "url": "/26/team/115693/universidad-central-de-venezuela",
+  "name": "Universidad Central de Venezuela",
+  "ovr": 67,
+  "att": 70,
+  "mid": 66,
+  "def": 66
+ },
+ {
+  "id": 114640,
+  "url": "/26/team/114640/charlotte-fc",
+  "name": "Charlotte FC",
+  "ovr": 71,
+  "att": 68,
+  "mid": 72,
+  "def": 68
+ },
+ {
+  "id": 111716,
+  "url": "/26/team/111716/union-de-santa-fe",
+  "name": "Unión de Santa Fe",
+  "ovr": 69,
+  "att": 68,
+  "mid": 70,
+  "def": 69
+ },
+ {
+  "id": 111711,
+  "url": "/26/team/111711/huracan",
+  "name": "Huracán",
+  "ovr": 70,
+  "att": 64,
+  "mid": 69,
+  "def": 70
+ },
+ {
+  "id": 111701,
+  "url": "/26/team/111701/al-ain-fc-uae",
+  "name": "Al Ain FC (UAE)",
+  "ovr": 69,
+  "att": 77,
+  "mid": 70,
+  "def": 67
+ },
+ {
+  "id": 111651,
+  "url": "/26/team/111651/toronto-fc",
+  "name": "Toronto FC",
+  "ovr": 69,
+  "att": 73,
+  "mid": 70,
+  "def": 67
+ },
+ {
+  "id": 111633,
+  "url": "/26/team/111633/mohammedan-sc",
+  "name": "Mohammedan SC",
+  "ovr": 52,
+  "att": 51,
+  "mid": 52,
+  "def": 51
+ },
+ {
+  "id": 191,
+  "url": "/26/team/191/rb-salzburg",
+  "name": "RB Salzburg",
+  "ovr": 69,
+  "att": 69,
+  "mid": 70,
+  "def": 68
+ },
+ {
+  "id": 111592,
+  "url": "/26/team/111592/ng-fa",
+  "name": "NG - FA",
+  "ovr": 0,
+  "att": 0,
+  "mid": 0,
+  "def": 0
+ },
+ {
+  "id": 111400,
+  "url": "/26/team/111400/sydney-fc",
+  "name": "Sydney FC",
+  "ovr": 65,
+  "att": 66,
+  "mid": 65,
+  "def": 66
+ },
+ {
+  "id": 111235,
+  "url": "/26/team/111235/1.-fc-heidenheim",
+  "name": "1. FC Heidenheim",
+  "ovr": 72,
+  "att": 72,
+  "mid": 72,
+  "def": 72
+ },
+ {
+  "id": 111774,
+  "url": "/26/team/111774/tianjin-jinmen-tiger",
+  "name": "Tianjin Jinmen Tiger",
+  "ovr": 62,
+  "att": 72,
+  "mid": 64,
+  "def": 59
+ },
+ {
+  "id": 111928,
+  "url": "/26/team/111928/san-jose-earthquakes",
+  "name": "San Jose Earthquakes",
+  "ovr": 67,
+  "att": 65,
+  "mid": 68,
+  "def": 65
+ },
+ {
+  "id": 112134,
+  "url": "/26/team/112134/philadelphia-union",
+  "name": "Philadelphia Union",
+  "ovr": 67,
+  "att": 68,
+  "mid": 68,
+  "def": 66
+ },
+ {
+  "id": 114162,
+  "url": "/26/team/114162/nashville-sc",
+  "name": "Nashville SC",
+  "ovr": 69,
+  "att": 70,
+  "mid": 69,
+  "def": 68
+ },
+ {
+  "id": 113616,
+  "url": "/26/team/113616/grazer-ak",
+  "name": "Grazer AK",
+  "ovr": 65,
+  "att": 65,
+  "mid": 65,
+  "def": 65
+ },
+ {
+  "id": 113302,
+  "url": "/26/team/113302/bengaluru-fc",
+  "name": "Bengaluru FC",
+  "ovr": 59,
+  "att": 62,
+  "mid": 56,
+  "def": 60
+ },
+ {
+  "id": 113149,
+  "url": "/26/team/113149/fc-cincinnati",
+  "name": "FC Cincinnati",
+  "ovr": 69,
+  "att": 76,
+  "mid": 68,
+  "def": 68
+ },
+ {
+  "id": 113018,
+  "url": "/26/team/113018/st.-louis-city-sc",
+  "name": "St. Louis City SC",
+  "ovr": 68,
+  "att": 64,
+  "mid": 69,
+  "def": 65
+ },
+ {
+  "id": 112908,
+  "url": "/26/team/112908/independiente-del-valle",
+  "name": "Independiente del Valle",
+  "ovr": 70,
+  "att": 70,
+  "mid": 68,
+  "def": 68
+ },
+ {
+  "id": 144,
+  "url": "/26/team/144/fulham",
+  "name": "Fulham",
+  "ovr": 78,
+  "att": 78,
+  "mid": 78,
+  "def": 78
+ },
+ {
+  "id": 169,
+  "url": "/26/team/169/1.-fsv-mainz-05",
+  "name": "1. FSV Mainz 05",
+  "ovr": 75,
+  "att": 73,
+  "mid": 78,
+  "def": 75
+ },
+ {
+  "id": 112258,
+  "url": "/26/team/112258/gwangju-fc",
+  "name": "Gwangju FC",
+  "ovr": 62,
+  "att": 59,
+  "mid": 60,
+  "def": 60
+ },
+ {
+  "id": 230,
+  "url": "/26/team/230/antwerp",
+  "name": "Antwerp",
+  "ovr": 70,
+  "att": 71,
+  "mid": 69,
+  "def": 70
+ },
+ {
+  "id": 687,
+  "url": "/26/team/687/columbus-crew",
+  "name": "Columbus Crew",
+  "ovr": 70,
+  "att": 71,
+  "mid": 70,
+  "def": 68
+ },
+ {
+  "id": 567,
+  "url": "/26/team/567/fluminense",
+  "name": "Fluminense",
+  "ovr": 72,
+  "att": 74,
+  "mid": 72,
+  "def": 72
+ },
+ {
+  "id": 741,
+  "url": "/26/team/741/antalyaspor",
+  "name": "Antalyaspor",
+  "ovr": 68,
+  "att": 69,
+  "mid": 68,
+  "def": 68
+ },
+ {
+  "id": 689,
+  "url": "/26/team/689/red-bull-new-york",
+  "name": "Red Bull New York",
+  "ovr": 67,
+  "att": 69,
+  "mid": 66,
+  "def": 62
+ },
+ {
+  "id": 919,
+  "url": "/26/team/919/sk-brann",
+  "name": "SK Brann",
+  "ovr": 68,
+  "att": 68,
+  "mid": 68,
+  "def": 68
+ },
+ {
+  "id": 1871,
+  "url": "/26/team/1871/legia-warszawa",
+  "name": "Legia Warszawa",
+  "ovr": 68,
+  "att": 67,
+  "mid": 69,
+  "def": 68
+ },
+ {
+  "id": 898,
+  "url": "/26/team/898/fc-st.-gallen",
+  "name": "FC St. Gallen",
+  "ovr": 68,
+  "att": 65,
+  "mid": 68,
+  "def": 67
+ },
+ {
+  "id": 459,
+  "url": "/26/team/459/real-sporting-de-gijon",
+  "name": "Real Sporting de Gijón",
+  "ovr": 70,
+  "att": 74,
+  "mid": 71,
+  "def": 70
+ },
+ {
+  "id": 873,
+  "url": "/26/team/873/lech-poznan",
+  "name": "Lech Poznan",
+  "ovr": 70,
+  "att": 74,
+  "mid": 69,
+  "def": 68
+ },
+ {
+  "id": 918,
+  "url": "/26/team/918/fk-bodo-glimt",
+  "name": "FK Bodø/Glimt",
+  "ovr": 71,
+  "att": 73,
+  "mid": 72,
+  "def": 70
+ },
+ {
+  "id": 691,
+  "url": "/26/team/691/new-england-revolution",
+  "name": "New England Revolution",
+  "ovr": 69,
+  "att": 69,
+  "mid": 70,
+  "def": 66
+ },
+ {
+  "id": 698,
+  "url": "/26/team/698/houston-dynamo",
+  "name": "Houston Dynamo",
+  "ovr": 70,
+  "att": 73,
+  "mid": 71,
+  "def": 69
+ },
+ {
+  "id": 480,
+  "url": "/26/team/480/rayo-vallecano",
+  "name": "Rayo Vallecano",
+  "ovr": 77,
+  "att": 81,
+  "mid": 77,
+  "def": 77
+ },
+ {
+  "id": 1516,
+  "url": "/26/team/1516/fc-midtjylland",
+  "name": "FC Midtjylland",
+  "ovr": 72,
+  "att": 72,
+  "mid": 71,
+  "def": 72
+ },
+ {
+  "id": 780,
+  "url": "/26/team/780/sv-ried",
+  "name": "SV Ried",
+  "ovr": 65,
+  "att": 65,
+  "mid": 65,
+  "def": 65
+ },
+ {
+  "id": 531,
+  "url": "/26/team/531/preussen-munster",
+  "name": "Preußen Münster",
+  "ovr": 67,
+  "att": 67,
+  "mid": 67,
+  "def": 67
+ },
+ {
+  "id": 688,
+  "url": "/26/team/688/d.c.-united",
+  "name": "D.C. United",
+  "ovr": 67,
+  "att": 71,
+  "mid": 65,
+  "def": 67
+ },
+ {
+  "id": 100852,
+  "url": "/26/team/100852/cd-castellon",
+  "name": "CD Castellón",
+  "ovr": 69,
+  "att": 69,
+  "mid": 70,
+  "def": 68
+ },
+ {
+  "id": 111397,
+  "url": "/26/team/111397/melbourne-victory",
+  "name": "Melbourne Victory",
+  "ovr": 65,
+  "att": 65,
+  "mid": 65,
+  "def": 62
+ },
+ {
+  "id": 116016,
+  "url": "/26/team/116016/everton",
+  "name": "Everton",
+  "ovr": 76,
+  "att": 76,
+  "mid": 76,
+  "def": 74
+ },
+ {
+  "id": 15009,
+  "url": "/26/team/15009/altach",
+  "name": "Altach",
+  "ovr": 65,
+  "att": 64,
+  "mid": 66,
+  "def": 63
+ },
+ {
+  "id": 116013,
+  "url": "/26/team/116013/brighton-hove-albion",
+  "name": "Brighton & Hove Albion",
+  "ovr": 76,
+  "att": 77,
+  "mid": 76,
+  "def": 75
+ },
+ {
+  "id": 83,
+  "url": "/26/team/83/motherwell",
+  "name": "Motherwell",
+  "ovr": 66,
+  "att": 71,
+  "mid": 66,
+  "def": 65
+ },
+ {
+  "id": 116001,
+  "url": "/26/team/116001/sgs-essen",
+  "name": "SGS Essen",
+  "ovr": 73,
+  "att": 71,
+  "mid": 73,
+  "def": 73
+ },
+ {
+  "id": 305,
+  "url": "/26/team/305/bohemians",
+  "name": "Bohemians",
+  "ovr": 61,
+  "att": 58,
+  "mid": 62,
+  "def": 60
+ },
+ {
+  "id": 89,
+  "url": "/26/team/89/charlton-athletic",
+  "name": "Charlton Athletic",
+  "ovr": 69,
+  "att": 67,
+  "mid": 69,
+  "def": 69
+ },
+ {
+  "id": 517,
+  "url": "/26/team/517/botafogo",
+  "name": "Botafogo",
+  "ovr": 75,
+  "att": 71,
+  "mid": 75,
+  "def": 75
+ },
+ {
+  "id": 100135,
+  "url": "/26/team/100135/apoel-nicosia-fc",
+  "name": "APOEL Nicosia FC",
+  "ovr": 69,
+  "att": 67,
+  "mid": 70,
+  "def": 68
+ },
+ {
+  "id": 111674,
+  "url": "/26/team/111674/al-shabab",
+  "name": "Al Shabab",
+  "ovr": 69,
+  "att": 77,
+  "mid": 70,
+  "def": 65
+ },
+ {
+  "id": 462,
+  "url": "/26/team/462/real-valladolid",
+  "name": "Real Valladolid",
+  "ovr": 69,
+  "att": 68,
+  "mid": 69,
+  "def": 69
+ },
+ {
+  "id": 111769,
+  "url": "/26/team/111769/changchun-yatai",
+  "name": "Changchun Yatai",
+  "ovr": 61,
+  "att": 62,
+  "mid": 60,
+  "def": 60
+ },
+ {
+  "id": 1943,
+  "url": "/26/team/1943/afc-bournemouth",
+  "name": "AFC Bournemouth",
+  "ovr": 78,
+  "att": 79,
+  "mid": 78,
+  "def": 77
+ },
+ {
+  "id": 1952,
+  "url": "/26/team/1952/hull-city",
+  "name": "Hull City",
+  "ovr": 71,
+  "att": 74,
+  "mid": 71,
+  "def": 71
+ },
+ {
+  "id": 710,
+  "url": "/26/team/710/djurgardens-if",
+  "name": "Djurgårdens IF",
+  "ovr": 67,
+  "att": 65,
+  "mid": 67,
+  "def": 65
+ },
+ {
+  "id": 1960,
+  "url": "/26/team/1960/swansea-city",
+  "name": "Swansea City",
+  "ovr": 71,
+  "att": 72,
+  "mid": 70,
+  "def": 72
+ },
+ {
+  "id": 111722,
+  "url": "/26/team/111722/deportes-tolima",
+  "name": "Deportes Tolima",
+  "ovr": 69,
+  "att": 69,
+  "mid": 69,
+  "def": 69
+ },
+ {
+  "id": 479,
+  "url": "/26/team/479/ca-osasuna",
+  "name": "CA Osasuna",
+  "ovr": 77,
+  "att": 78,
+  "mid": 77,
+  "def": 77
+ },
+ {
+  "id": 111715,
+  "url": "/26/team/111715/tigre",
+  "name": "Tigre",
+  "ovr": 69,
+  "att": 69,
+  "mid": 69,
+  "def": 66
+ },
+ {
+  "id": 4,
+  "url": "/26/team/4/bolton-wanderers",
+  "name": "Bolton Wanderers",
+  "ovr": 67,
+  "att": 66,
+  "mid": 67,
+  "def": 66
+ },
+ {
+  "id": 472,
+  "url": "/26/team/472/ud-las-palmas",
+  "name": "UD Las Palmas",
+  "ovr": 72,
+  "att": 72,
+  "mid": 71,
+  "def": 72
+ },
+ {
+  "id": 708,
+  "url": "/26/team/708/hammarby-if",
+  "name": "Hammarby IF",
+  "ovr": 68,
+  "att": 68,
+  "mid": 69,
+  "def": 68
+ },
+ {
+  "id": 94,
+  "url": "/26/team/94/ipswich-town",
+  "name": "Ipswich Town",
+  "ovr": 73,
+  "att": 69,
+  "mid": 73,
+  "def": 74
+ },
+ {
+  "id": 467,
+  "url": "/26/team/467/sd-eibar",
+  "name": "SD Eibar",
+  "ovr": 69,
+  "att": 69,
+  "mid": 68,
+  "def": 68
+ },
+ {
+  "id": 10032,
+  "url": "/26/team/10032/fc-lugano",
+  "name": "FC Lugano",
+  "ovr": 70,
+  "att": 71,
+  "mid": 70,
+  "def": 69
+ },
+ {
+  "id": 378,
+  "url": "/26/team/378/stade-brestois-29",
+  "name": "Stade Brestois 29",
+  "ovr": 74,
+  "att": 75,
+  "mid": 74,
+  "def": 74
+ },
+ {
+  "id": 1939,
+  "url": "/26/team/1939/huddersfield-town",
+  "name": "Huddersfield Town",
+  "ovr": 67,
+  "att": 66,
+  "mid": 67,
+  "def": 66
+ },
+ {
+  "id": 111339,
+  "url": "/26/team/111339/kasimpasa",
+  "name": "Kasimpasa",
+  "ovr": 69,
+  "att": 69,
+  "mid": 69,
+  "def": 67
+ },
+ {
+  "id": 110176,
+  "url": "/26/team/110176/ssv-ulm-1846",
+  "name": "SSV Ulm 1846",
+  "ovr": 65,
+  "att": 62,
+  "mid": 65,
+  "def": 64
+ },
+ {
+  "id": 110989,
+  "url": "/26/team/110989/caracas-fc",
+  "name": "Caracas FC",
+  "ovr": 65,
+  "att": 65,
+  "mid": 64,
+  "def": 65
+ },
+ {
+  "id": 271,
+  "url": "/26/team/271/agf",
+  "name": "AGF",
+  "ovr": 70,
+  "att": 71,
+  "mid": 70,
+  "def": 71
+ },
+ {
+  "id": 110395,
+  "url": "/26/team/110395/lanus",
+  "name": "Lanús",
+  "ovr": 72,
+  "att": 71,
+  "mid": 72,
+  "def": 70
+ },
+ {
+  "id": 270,
+  "url": "/26/team/270/silkeborg-if",
+  "name": "Silkeborg IF",
+  "ovr": 66,
+  "att": 70,
+  "mid": 65,
+  "def": 66
+ },
+ {
+  "id": 110468,
+  "url": "/26/team/110468/viktoria-plzen",
+  "name": "Viktoria Plzen",
+  "ovr": 72,
+  "att": 71,
+  "mid": 72,
+  "def": 72
+ },
+ {
+  "id": 269,
+  "url": "/26/team/269/brondby-if",
+  "name": "Brøndby IF",
+  "ovr": 69,
+  "att": 66,
+  "mid": 70,
+  "def": 69
+ },
+ {
+  "id": 670,
+  "url": "/26/team/670/charleroi",
+  "name": "Charleroi",
+  "ovr": 69,
+  "att": 69,
+  "mid": 70,
+  "def": 69
+ },
+ {
+  "id": 32,
+  "url": "/26/team/32/bayer-04-leverkusen",
+  "name": "Bayer 04 Leverkusen",
+  "ovr": 79,
+  "att": 80,
+  "mid": 80,
+  "def": 78
+ },
+ {
+  "id": 50,
+  "url": "/26/team/50/parma",
+  "name": "Parma",
+  "ovr": 73,
+  "att": 72,
+  "mid": 73,
+  "def": 71
+ },
+ {
+  "id": 116334,
+  "url": "/26/team/116334/madrid-cff",
+  "name": "Madrid CFF",
+  "ovr": 71,
+  "att": 73,
+  "mid": 73,
+  "def": 71
+ },
+ {
+  "id": 57,
+  "url": "/26/team/57/aj-auxerre",
+  "name": "AJ Auxerre",
+  "ovr": 72,
+  "att": 70,
+  "mid": 73,
+  "def": 71
+ },
+ {
+  "id": 110832,
+  "url": "/26/team/110832/granada-cf",
+  "name": "Granada CF",
+  "ovr": 69,
+  "att": 69,
+  "mid": 69,
+  "def": 69
+ },
+ {
+  "id": 110724,
+  "url": "/26/team/110724/kv-mechelen",
+  "name": "KV Mechelen",
+  "ovr": 69,
+  "att": 70,
+  "mid": 69,
+  "def": 68
+ },
+ {
+  "id": 110827,
+  "url": "/26/team/110827/real-oviedo",
+  "name": "Real Oviedo",
+  "ovr": 73,
+  "att": 74,
+  "mid": 72,
+  "def": 73
+ },
+ {
+  "id": 55,
+  "url": "/26/team/55/udinese",
+  "name": "Udinese",
+  "ovr": 73,
+  "att": 73,
+  "mid": 73,
+  "def": 73
+ },
+ {
+  "id": 110747,
+  "url": "/26/team/110747/cracovia",
+  "name": "Cracovia",
+  "ovr": 67,
+  "att": 67,
+  "mid": 68,
+  "def": 68
+ },
+ {
+  "id": 116303,
+  "url": "/26/team/116303/north-carolina-courage",
+  "name": "North Carolina Courage",
+  "ovr": 73,
+  "att": 74,
+  "mid": 71,
+  "def": 72
+ },
+ {
+  "id": 111328,
+  "url": "/26/team/111328/palestino",
+  "name": "Palestino",
+  "ovr": 67,
+  "att": 66,
+  "mid": 66,
+  "def": 66
+ },
+ {
+  "id": 131363,
+  "url": "/26/team/131363/glasgow-city",
+  "name": "Glasgow City",
+  "ovr": 70,
+  "att": 71,
+  "mid": 69,
+  "def": 69
+ },
+ {
+  "id": 693,
+  "url": "/26/team/693/chicago-fire-fc",
+  "name": "Chicago Fire FC",
+  "ovr": 70,
+  "att": 76,
+  "mid": 69,
+  "def": 67
+ },
+ {
+  "id": 101033,
+  "url": "/26/team/101033/konyaspor",
+  "name": "Konyaspor",
+  "ovr": 69,
+  "att": 69,
+  "mid": 69,
+  "def": 69
+ },
+ {
+  "id": 131362,
+  "url": "/26/team/131362/fc-rosengard",
+  "name": "FC Rosengård",
+  "ovr": 69,
+  "att": 69,
+  "mid": 70,
+  "def": 66
+ },
+ {
+  "id": 319,
+  "url": "/26/team/319/ifk-goteborg",
+  "name": "IFK Göteborg",
+  "ovr": 66,
+  "att": 64,
+  "mid": 68,
+  "def": 65
+ },
+ {
+  "id": 101084,
+  "url": "/26/team/101084/gimnasia-y-esgrima-la-plata",
+  "name": "Gimnasia y Esgrima La Plata",
+  "ovr": 68,
+  "att": 66,
+  "mid": 67,
+  "def": 68
+ },
+ {
+  "id": 205,
+  "url": "/26/team/205/venezia",
+  "name": "Venezia",
+  "ovr": 71,
+  "att": 71,
+  "mid": 72,
+  "def": 69
+ },
+ {
+  "id": 131361,
+  "url": "/26/team/131361/fc-zurich",
+  "name": "FC Zürich",
+  "ovr": 65,
+  "att": 61,
+  "mid": 67,
+  "def": 68
+ },
+ {
+  "id": 111139,
+  "url": "/26/team/111139/cf-montreal",
+  "name": "CF Montréal",
+  "ovr": 66,
+  "att": 68,
+  "mid": 66,
+  "def": 64
+ },
+ {
+  "id": 112224,
+  "url": "/26/team/112224/melbourne-city",
+  "name": "Melbourne City",
+  "ovr": 65,
+  "att": 62,
+  "mid": 65,
+  "def": 64
+ },
+ {
+  "id": 15,
+  "url": "/26/team/15/queens-park-rangers",
+  "name": "Queens Park Rangers",
+  "ovr": 70,
+  "att": 67,
+  "mid": 70,
+  "def": 70
+ },
+ {
+  "id": 116300,
+  "url": "/26/team/116300/seattle-reign-fc",
+  "name": "Seattle Reign FC",
+  "ovr": 74,
+  "att": 76,
+  "mid": 71,
+  "def": 71
+ },
+ {
+  "id": 111086,
+  "url": "/26/team/111086/piast-gliwice",
+  "name": "Piast Gliwice",
+  "ovr": 66,
+  "att": 65,
+  "mid": 65,
+  "def": 65
+ },
+ {
+  "id": 111022,
+  "url": "/26/team/111022/belgrano-de-cordoba",
+  "name": "Belgrano de Córdoba",
+  "ovr": 71,
+  "att": 73,
+  "mid": 73,
+  "def": 71
+ },
+ {
+  "id": 111019,
+  "url": "/26/team/111019/argentinos-juniors",
+  "name": "Argentinos Juniors",
+  "ovr": 72,
+  "att": 71,
+  "mid": 73,
+  "def": 71
+ },
+ {
+  "id": 112393,
+  "url": "/26/team/112393/al-taawoun",
+  "name": "Al Taawoun",
+  "ovr": 69,
+  "att": 70,
+  "mid": 71,
+  "def": 64
+ },
+ {
+  "id": 111811,
+  "url": "/26/team/111811/monza",
+  "name": "Monza",
+  "ovr": 72,
+  "att": 72,
+  "mid": 73,
+  "def": 68
+ },
+ {
+  "id": 1746,
+  "url": "/26/team/1746/empoli",
+  "name": "Empoli",
+  "ovr": 69,
+  "att": 68,
+  "mid": 69,
+  "def": 68
+ },
+ {
+  "id": 3,
+  "url": "/26/team/3/blackburn-rovers",
+  "name": "Blackburn Rovers",
+  "ovr": 69,
+  "att": 69,
+  "mid": 69,
+  "def": 67
+ },
+ {
+  "id": 132231,
+  "url": "/26/team/132231/raal-la-louviere",
+  "name": "RAAL La Louvière",
+  "ovr": 67,
+  "att": 63,
+  "mid": 67,
+  "def": 67
+ },
+ {
+  "id": 433,
+  "url": "/26/team/433/aik",
+  "name": "AIK",
+  "ovr": 66,
+  "att": 64,
+  "mid": 66,
+  "def": 63
+ },
+ {
+  "id": 422,
+  "url": "/26/team/422/cork-city",
+  "name": "Cork City",
+  "ovr": 56,
+  "att": 59,
+  "mid": 55,
+  "def": 55
+ },
+ {
+  "id": 420,
+  "url": "/26/team/420/gornik-zabrze",
+  "name": "Górnik Zabrze",
+  "ovr": 68,
+  "att": 66,
+  "mid": 69,
+  "def": 68
+ },
+ {
+  "id": 159,
+  "url": "/26/team/159/arminia-bielefeld",
+  "name": "Arminia Bielefeld",
+  "ovr": 68,
+  "att": 67,
+  "mid": 68,
+  "def": 68
+ },
+ {
+  "id": 132176,
+  "url": "/26/team/132176/london-city-lionesses",
+  "name": "London City Lionesses",
+  "ovr": 78,
+  "att": 72,
+  "mid": 79,
+  "def": 76
+ },
+ {
+  "id": 1793,
+  "url": "/26/team/1793/reading",
+  "name": "Reading",
+  "ovr": 66,
+  "att": 65,
+  "mid": 66,
+  "def": 66
+ },
+ {
+  "id": 112670,
+  "url": "/26/team/112670/talleres-de-cordoba",
+  "name": "Talleres de Córdoba",
+  "ovr": 71,
+  "att": 69,
+  "mid": 71,
+  "def": 69
+ },
+ {
+  "id": 1861,
+  "url": "/26/team/1861/ud-almeria",
+  "name": "UD Almería",
+  "ovr": 72,
+  "att": 72,
+  "mid": 72,
+  "def": 72
+ },
+ {
+  "id": 1862,
+  "url": "/26/team/1862/fc-lausanne-sport",
+  "name": "FC Lausanne-Sport",
+  "ovr": 67,
+  "att": 65,
+  "mid": 68,
+  "def": 67
+ },
+ {
+  "id": 1867,
+  "url": "/26/team/1867/cordoba-cf",
+  "name": "Córdoba CF",
+  "ovr": 69,
+  "att": 70,
+  "mid": 69,
+  "def": 68
+ },
+ {
+  "id": 1853,
+  "url": "/26/team/1853/levante-ud",
+  "name": "Levante UD",
+  "ovr": 74,
+  "att": 74,
+  "mid": 73,
+  "def": 74
+ },
+ {
+  "id": 897,
+  "url": "/26/team/897/fc-luzern",
+  "name": "FC Luzern",
+  "ovr": 66,
+  "att": 67,
+  "mid": 65,
+  "def": 66
+ },
+ {
+  "id": 417,
+  "url": "/26/team/417/molde-fk",
+  "name": "Molde FK",
+  "ovr": 67,
+  "att": 67,
+  "mid": 67,
+  "def": 66
+ },
+ {
+  "id": 132370,
+  "url": "/26/team/132370/olympique-de-marseille",
+  "name": "Olympique de Marseille",
+  "ovr": 71,
+  "att": 80,
+  "mid": 72,
+  "def": 70
+ },
+ {
+  "id": 112558,
+  "url": "/26/team/112558/suwon-fc",
+  "name": "Suwon FC",
+  "ovr": 64,
+  "att": 63,
+  "mid": 64,
+  "def": 62
+ },
+ {
+  "id": 113300,
+  "url": "/26/team/113300/mumbai-city-fc",
+  "name": "Mumbai City FC",
+  "ovr": 58,
+  "att": 65,
+  "mid": 55,
+  "def": 56
+ },
+ {
+  "id": 113298,
+  "url": "/26/team/113298/fc-goa",
+  "name": "FC Goa",
+  "ovr": 59,
+  "att": 55,
+  "mid": 59,
+  "def": 60
+ },
+ {
+  "id": 113297,
+  "url": "/26/team/113297/chennaiyin-fc",
+  "name": "Chennaiyin FC",
+  "ovr": 59,
+  "att": 62,
+  "mid": 61,
+  "def": 58
+ },
+ {
+  "id": 1788,
+  "url": "/26/team/1788/fc-nordsjaelland",
+  "name": "FC Nordsjælland",
+  "ovr": 68,
+  "att": 68,
+  "mid": 69,
+  "def": 67
+ },
+ {
+  "id": 1790,
+  "url": "/26/team/1790/portsmouth",
+  "name": "Portsmouth",
+  "ovr": 69,
+  "att": 70,
+  "mid": 69,
+  "def": 68
+ },
+ {
+  "id": 506,
+  "url": "/26/team/506/erzgebirge-aue",
+  "name": "Erzgebirge Aue",
+  "ovr": 64,
+  "att": 66,
+  "mid": 63,
+  "def": 64
+ },
+ {
+  "id": 1796,
+  "url": "/26/team/1796/burnley",
+  "name": "Burnley",
+  "ovr": 75,
+  "att": 75,
+  "mid": 74,
+  "def": 75
+ },
+ {
+  "id": 113888,
+  "url": "/26/team/113888/qarabag-fk",
+  "name": "Qarabag FK",
+  "ovr": 69,
+  "att": 68,
+  "mid": 70,
+  "def": 69
+ },
+ {
+  "id": 113974,
+  "url": "/26/team/113974/spezia",
+  "name": "Spezia",
+  "ovr": 68,
+  "att": 68,
+  "mid": 67,
+  "def": 68
+ },
+ {
+  "id": 132629,
+  "url": "/26/team/132629/dux-logrono",
+  "name": "DUX Logroño",
+  "ovr": 67,
+  "att": 65,
+  "mid": 68,
+  "def": 64
+ },
+ {
+  "id": 1801,
+  "url": "/26/team/1801/preston-north-end",
+  "name": "Preston North End",
+  "ovr": 70,
+  "att": 70,
+  "mid": 72,
+  "def": 69
+ },
+ {
+  "id": 131720,
+  "url": "/26/team/131720/rc-deportivo",
+  "name": "RC Deportivo",
+  "ovr": 72,
+  "att": 75,
+  "mid": 70,
+  "def": 68
+ },
+ {
+  "id": 748,
+  "url": "/26/team/748/samsunspor",
+  "name": "Samsunspor",
+  "ovr": 71,
+  "att": 70,
+  "mid": 71,
+  "def": 70
+ },
+ {
+  "id": 1804,
+  "url": "/26/team/1804/bradford-city",
+  "name": "Bradford City",
+  "ovr": 65,
+  "att": 66,
+  "mid": 65,
+  "def": 64
+ },
+ {
+  "id": 114385,
+  "url": "/26/team/114385/cfr-cluj",
+  "name": "CFR Cluj",
+  "ovr": 67,
+  "att": 66,
+  "mid": 68,
+  "def": 66
+ },
+ {
+  "id": 453,
+  "url": "/26/team/453/rcd-mallorca",
+  "name": "RCD Mallorca",
+  "ovr": 76,
+  "att": 75,
+  "mid": 76,
+  "def": 77
+ },
+ {
+  "id": 1913,
+  "url": "/26/team/1913/sc-heerenveen",
+  "name": "sc Heerenveen",
+  "ovr": 68,
+  "att": 67,
+  "mid": 69,
+  "def": 67
+ },
+ {
+  "id": 1894,
+  "url": "/26/team/1894/ad-ceuta",
+  "name": "AD Ceuta",
+  "ovr": 67,
+  "att": 67,
+  "mid": 67,
+  "def": 67
+ },
+ {
+  "id": 456,
+  "url": "/26/team/456/racing-de-santander",
+  "name": "Racing de Santander",
+  "ovr": 70,
+  "att": 71,
+  "mid": 71,
+  "def": 68
+ },
+ {
+  "id": 920,
+  "url": "/26/team/920/valerenga-fotball",
+  "name": "Vålerenga Fotball",
+  "ovr": 66,
+  "att": 66,
+  "mid": 65,
+  "def": 66
+ },
+ {
+  "id": 112096,
+  "url": "/26/team/112096/al-ettifaq",
+  "name": "Al Ettifaq",
+  "ovr": 68,
+  "att": 69,
+  "mid": 70,
+  "def": 66
+ },
+ {
+  "id": 112116,
+  "url": "/26/team/112116/o-higgins",
+  "name": "O'Higgins",
+  "ovr": 66,
+  "att": 66,
+  "mid": 68,
+  "def": 66
+ },
+ {
+  "id": 1932,
+  "url": "/26/team/1932/barnsley",
+  "name": "Barnsley",
+  "ovr": 65,
+  "att": 66,
+  "mid": 64,
+  "def": 65
+ },
+ {
+  "id": 112163,
+  "url": "/26/team/112163/zhejiang-professional-fc",
+  "name": "Zhejiang Professional FC",
+  "ovr": 62,
+  "att": 66,
+  "mid": 60,
+  "def": 62
+ },
+ {
+  "id": 1915,
+  "url": "/26/team/1915/fc-groningen",
+  "name": "FC Groningen",
+  "ovr": 67,
+  "att": 68,
+  "mid": 66,
+  "def": 68
+ },
+ {
+  "id": 1926,
+  "url": "/26/team/1926/blackpool",
+  "name": "Blackpool",
+  "ovr": 66,
+  "att": 66,
+  "mid": 66,
+  "def": 65
+ },
+ {
+  "id": 112391,
+  "url": "/26/team/112391/al-qadsiah",
+  "name": "Al Qadsiah",
+  "ovr": 74,
+  "att": 76,
+  "mid": 76,
+  "def": 71
+ },
+ {
+  "id": 112390,
+  "url": "/26/team/112390/al-fateh",
+  "name": "Al Fateh",
+  "ovr": 64,
+  "att": 67,
+  "mid": 65,
+  "def": 61
+ },
+ {
+  "id": 112427,
+  "url": "/26/team/112427/western-sydney-wanderers",
+  "name": "Western Sydney Wanderers",
+  "ovr": 65,
+  "att": 65,
+  "mid": 66,
+  "def": 63
+ },
+ {
+  "id": 583,
+  "url": "/26/team/583/1.-fc-schweinfurt-05",
+  "name": "1. FC Schweinfurt 05",
+  "ovr": 62,
+  "att": 63,
+  "mid": 61,
+  "def": 63
+ },
+ {
+  "id": 1923,
+  "url": "/26/team/1923/luton-town",
+  "name": "Luton Town",
+  "ovr": 68,
+  "att": 68,
+  "mid": 67,
+  "def": 68
+ },
+ {
+  "id": 111822,
+  "url": "/26/team/111822/wolfsberger-ac",
+  "name": "Wolfsberger AC",
+  "ovr": 67,
+  "att": 66,
+  "mid": 67,
+  "def": 67
+ },
+ {
+  "id": 1925,
+  "url": "/26/team/1925/brentford",
+  "name": "Brentford",
+  "ovr": 78,
+  "att": 81,
+  "mid": 78,
+  "def": 77
+ },
+ {
+  "id": 111974,
+  "url": "/26/team/111974/sassuolo",
+  "name": "Sassuolo",
+  "ovr": 74,
+  "att": 77,
+  "mid": 75,
+  "def": 73
+ },
+ {
+  "id": 69,
+  "url": "/26/team/69/as-monaco",
+  "name": "AS Monaco",
+  "ovr": 78,
+  "att": 78,
+  "mid": 77,
+  "def": 77
+ },
+ {
+  "id": 111012,
+  "url": "/26/team/111012/alianza-atletico-de-sullana",
+  "name": "Alianza Atlético de Sullana",
+  "ovr": 64,
+  "att": 64,
+  "mid": 65,
+  "def": 64
+ },
+ {
+  "id": 114326,
+  "url": "/26/team/114326/rakow-czestochowa",
+  "name": "Raków Czestochowa",
+  "ovr": 69,
+  "att": 71,
+  "mid": 69,
+  "def": 69
+ },
+ {
+  "id": 834,
+  "url": "/26/team/834/shelbourne",
+  "name": "Shelbourne",
+  "ovr": 62,
+  "att": 61,
+  "mid": 62,
+  "def": 61
+ },
+ {
+  "id": 112115,
+  "url": "/26/team/112115/gangwon-fc",
+  "name": "Gangwon FC",
+  "ovr": 66,
+  "att": 60,
+  "mid": 67,
+  "def": 66
+ },
+ {
+  "id": 111011,
+  "url": "/26/team/111011/cienciano",
+  "name": "Cienciano",
+  "ovr": 66,
+  "att": 68,
+  "mid": 66,
+  "def": 66
+ },
+ {
+  "id": 711,
+  "url": "/26/team/711/bk-hacken",
+  "name": "BK Häcken",
+  "ovr": 67,
+  "att": 61,
+  "mid": 68,
+  "def": 66
+ },
+ {
+  "id": 110967,
+  "url": "/26/team/110967/blooming",
+  "name": "Blooming",
+  "ovr": 65,
+  "att": 67,
+  "mid": 65,
+  "def": 64
+ },
+ {
+  "id": 113142,
+  "url": "/26/team/113142/corendon-alanyaspor",
+  "name": "Corendon Alanyaspor",
+  "ovr": 68,
+  "att": 69,
+  "mid": 68,
+  "def": 68
+ },
+ {
+  "id": 101014,
+  "url": "/26/team/101014/istanbul-basaksehir-fk",
+  "name": "Istanbul Basaksehir FK",
+  "ovr": 71,
+  "att": 70,
+  "mid": 72,
+  "def": 71
+ },
+ {
+  "id": 922,
+  "url": "/26/team/922/stromsgodset-toppfotball",
+  "name": "Strømsgodset Toppfotball",
+  "ovr": 63,
+  "att": 63,
+  "mid": 63,
+  "def": 66
+ },
+ {
+  "id": 111817,
+  "url": "/26/team/111817/paris-fc",
+  "name": "Paris FC",
+  "ovr": 75,
+  "att": 75,
+  "mid": 76,
+  "def": 73
+ },
+ {
+  "id": 181,
+  "url": "/26/team/181/dundee-united",
+  "name": "Dundee United",
+  "ovr": 65,
+  "att": 65,
+  "mid": 65,
+  "def": 63
+ },
+ {
+  "id": 110908,
+  "url": "/26/team/110908/catanzaro",
+  "name": "Catanzaro",
+  "ovr": 68,
+  "att": 69,
+  "mid": 68,
+  "def": 66
+ },
+ {
+  "id": 110953,
+  "url": "/26/team/110953/instituto-de-cordoba",
+  "name": "Instituto de Córdoba",
+  "ovr": 69,
+  "att": 69,
+  "mid": 68,
+  "def": 68
+ },
+ {
+  "id": 680,
+  "url": "/26/team/680/sint-truiden",
+  "name": "Sint-Truiden",
+  "ovr": 69,
+  "att": 64,
+  "mid": 70,
+  "def": 68
+ },
+ {
+  "id": 113257,
+  "url": "/26/team/113257/odisha-fc",
+  "name": "Odisha FC",
+  "ovr": 57,
+  "att": 56,
+  "mid": 54,
+  "def": 55
+ },
+ {
+  "id": 116020,
+  "url": "/26/team/116020/leicester-city",
+  "name": "Leicester City",
+  "ovr": 74,
+  "att": 75,
+  "mid": 74,
+  "def": 75
+ },
+ {
+  "id": 681,
+  "url": "/26/team/681/westerlo",
+  "name": "Westerlo",
+  "ovr": 68,
+  "att": 67,
+  "mid": 69,
+  "def": 68
+ },
+ {
+  "id": 135,
+  "url": "/26/team/135/barnet",
+  "name": "Barnet",
+  "ovr": 62,
+  "att": 62,
+  "mid": 62,
+  "def": 62
+ },
+ {
+  "id": 111766,
+  "url": "/26/team/111766/wellington-phoenix",
+  "name": "Wellington Phoenix",
+  "ovr": 62,
+  "att": 63,
+  "mid": 62,
+  "def": 61
+ },
+ {
+  "id": 68,
+  "url": "/26/team/68/fc-metz",
+  "name": "FC Metz",
+  "ovr": 71,
+  "att": 71,
+  "mid": 72,
+  "def": 70
+ },
+ {
+  "id": 116306,
+  "url": "/26/team/116306/houston-dash",
+  "name": "Houston Dash",
+  "ovr": 74,
+  "att": 73,
+  "mid": 73,
+  "def": 74
+ },
+ {
+  "id": 143,
+  "url": "/26/team/143/exeter-city",
+  "name": "Exeter City",
+  "ovr": 63,
+  "att": 65,
+  "mid": 62,
+  "def": 63
+ },
+ {
+  "id": 111779,
+  "url": "/26/team/111779/henan-fc",
+  "name": "Henan FC",
+  "ovr": 61,
+  "att": 54,
+  "mid": 62,
+  "def": 62
+ },
+ {
+  "id": 112659,
+  "url": "/26/team/112659/cusco-fc",
+  "name": "Cusco FC",
+  "ovr": 68,
+  "att": 69,
+  "mid": 68,
+  "def": 67
+ },
+ {
+  "id": 115999,
+  "url": "/26/team/115999/tsg-1899-hoffenheim",
+  "name": "TSG 1899 Hoffenheim",
+  "ovr": 73,
+  "att": 77,
+  "mid": 71,
+  "def": 73
+ },
+ {
+  "id": 694,
+  "url": "/26/team/694/colorado-rapids",
+  "name": "Colorado Rapids",
+  "ovr": 68,
+  "att": 71,
+  "mid": 68,
+  "def": 67
+ },
+ {
+  "id": 111393,
+  "url": "/26/team/111393/adelaide-united",
+  "name": "Adelaide United",
+  "ovr": 64,
+  "att": 65,
+  "mid": 62,
+  "def": 63
+ },
+ {
+  "id": 142,
+  "url": "/26/team/142/doncaster-rovers",
+  "name": "Doncaster Rovers",
+  "ovr": 64,
+  "att": 62,
+  "mid": 64,
+  "def": 63
+ },
+ {
+  "id": 111395,
+  "url": "/26/team/111395/brisbane-roar",
+  "name": "Brisbane Roar",
+  "ovr": 63,
+  "att": 62,
+  "mid": 64,
+  "def": 63
+ },
+ {
+  "id": 112555,
+  "url": "/26/team/112555/fc-anyang",
+  "name": "FC Anyang",
+  "ovr": 65,
+  "att": 64,
+  "mid": 65,
+  "def": 65
+ },
+ {
+  "id": 111399,
+  "url": "/26/team/111399/perth-glory",
+  "name": "Perth Glory",
+  "ovr": 63,
+  "att": 67,
+  "mid": 59,
+  "def": 63
+ },
+ {
+  "id": 702,
+  "url": "/26/team/702/ifk-norrkoping",
+  "name": "IFK Norrköping",
+  "ovr": 64,
+  "att": 67,
+  "mid": 66,
+  "def": 64
+ },
+ {
+  "id": 82,
+  "url": "/26/team/82/kilmarnock",
+  "name": "Kilmarnock",
+  "ovr": 65,
+  "att": 63,
+  "mid": 64,
+  "def": 64
+ },
+ {
+  "id": 700,
+  "url": "/26/team/700/if-elfsborg",
+  "name": "IF Elfsborg",
+  "ovr": 67,
+  "att": 65,
+  "mid": 68,
+  "def": 67
+ },
+ {
+  "id": 695,
+  "url": "/26/team/695/fc-dallas",
+  "name": "FC Dallas",
+  "ovr": 67,
+  "att": 71,
+  "mid": 68,
+  "def": 65
+ },
+ {
+  "id": 114577,
+  "url": "/26/team/114577/always-ready",
+  "name": "Always Ready",
+  "ovr": 66,
+  "att": 67,
+  "mid": 65,
+  "def": 66
+ },
+ {
+  "id": 111273,
+  "url": "/26/team/111273/red-star-fc-france",
+  "name": "Red Star FC (FRANCE)",
+  "ovr": 67,
+  "att": 64,
+  "mid": 68,
+  "def": 67
+ },
+ {
+  "id": 744,
+  "url": "/26/team/744/rio-ave",
+  "name": "Rio Ave",
+  "ovr": 69,
+  "att": 65,
+  "mid": 68,
+  "def": 69
+ },
+ {
+  "id": 111239,
+  "url": "/26/team/111239/fc-ingolstadt-04",
+  "name": "FC Ingolstadt 04",
+  "ovr": 64,
+  "att": 60,
+  "mid": 64,
+  "def": 64
+ },
+ {
+  "id": 217,
+  "url": "/26/team/217/fc-lorient",
+  "name": "FC Lorient",
+  "ovr": 73,
+  "att": 72,
+  "mid": 73,
+  "def": 72
+ },
+ {
+  "id": 112883,
+  "url": "/26/team/112883/al-khaleej",
+  "name": "Al Khaleej",
+  "ovr": 69,
+  "att": 79,
+  "mid": 69,
+  "def": 66
+ },
+ {
+  "id": 111708,
+  "url": "/26/team/111708/atletico-tucuman",
+  "name": "Atlético Tucumán",
+  "ovr": 69,
+  "att": 74,
+  "mid": 68,
+  "def": 69
+ },
+ {
+  "id": 115517,
+  "url": "/26/team/115517/independiente-petrolero",
+  "name": "Independiente Petrolero",
+  "ovr": 65,
+  "att": 65,
+  "mid": 66,
+  "def": 64
+ },
+ {
+  "id": 79,
+  "url": "/26/team/79/falkirk",
+  "name": "Falkirk",
+  "ovr": 63,
+  "att": 63,
+  "mid": 63,
+  "def": 62
+ },
+ {
+  "id": 116037,
+  "url": "/26/team/116037/montpellier-hsc",
+  "name": "Montpellier HSC",
+  "ovr": 71,
+  "att": 71,
+  "mid": 69,
+  "def": 75
+ },
+ {
+  "id": 111117,
+  "url": "/26/team/111117/fatih-karagumruk-s.k.",
+  "name": "Fatih Karagümrük S.K.",
+  "ovr": 67,
+  "att": 68,
+  "mid": 67,
+  "def": 68
+ },
+ {
+  "id": 112853,
+  "url": "/26/team/112853/deportivo-la-guaira",
+  "name": "Deportivo La Guaira",
+  "ovr": 66,
+  "att": 67,
+  "mid": 66,
+  "def": 67
+ },
+ {
+  "id": 97,
+  "url": "/26/team/97/millwall",
+  "name": "Millwall",
+  "ovr": 71,
+  "att": 69,
+  "mid": 72,
+  "def": 72
+ },
+ {
+  "id": 149,
+  "url": "/26/team/149/lincoln-city",
+  "name": "Lincoln City",
+  "ovr": 66,
+  "att": 65,
+  "mid": 66,
+  "def": 66
+ },
+ {
+  "id": 112809,
+  "url": "/26/team/112809/famalicao",
+  "name": "Famalicão",
+  "ovr": 71,
+  "att": 69,
+  "mid": 71,
+  "def": 71
+ },
+ {
+  "id": 180,
+  "url": "/26/team/180/dundee-fc",
+  "name": "Dundee FC",
+  "ovr": 64,
+  "att": 66,
+  "mid": 64,
+  "def": 64
+ },
+ {
+  "id": 463,
+  "url": "/26/team/463/deportivo-alaves",
+  "name": "Deportivo Alavés",
+  "ovr": 74,
+  "att": 77,
+  "mid": 73,
+  "def": 74
+ },
+ {
+  "id": 112705,
+  "url": "/26/team/112705/coquimbo-unido",
+  "name": "Coquimbo Unido",
+  "ovr": 66,
+  "att": 65,
+  "mid": 66,
+  "def": 67
+ },
+ {
+  "id": 114578,
+  "url": "/26/team/114578/macara",
+  "name": "Macará",
+  "ovr": 66,
+  "att": 66,
+  "mid": 66,
+  "def": 66
+ },
+ {
+  "id": 131739,
+  "url": "/26/team/131739/auckland-fc",
+  "name": "Auckland FC",
+  "ovr": 65,
+  "att": 63,
+  "mid": 65,
+  "def": 66
+ },
+ {
+  "id": 423,
+  "url": "/26/team/423/st-patrick-s-athletic",
+  "name": "St Patrick's Athletic",
+  "ovr": 62,
+  "att": 62,
+  "mid": 63,
+  "def": 61
+ },
+ {
+  "id": 310,
+  "url": "/26/team/310/fc-rapid",
+  "name": "FC Rapid",
+  "ovr": 68,
+  "att": 66,
+  "mid": 69,
+  "def": 68
+ },
+ {
+  "id": 445,
+  "url": "/26/team/445/derry-city",
+  "name": "Derry City",
+  "ovr": 62,
+  "att": 63,
+  "mid": 62,
+  "def": 62
+ },
+ {
+  "id": 308,
+  "url": "/26/team/308/universitatea-craiova",
+  "name": "Universitatea Craiova",
+  "ovr": 68,
+  "att": 67,
+  "mid": 68,
+  "def": 69
+ },
+ {
+  "id": 1904,
+  "url": "/26/team/1904/nac-breda",
+  "name": "NAC Breda",
+  "ovr": 67,
+  "att": 68,
+  "mid": 67,
+  "def": 67
+ },
+ {
+  "id": 101097,
+  "url": "/26/team/101097/audax-italiano",
+  "name": "Audax Italiano",
+  "ovr": 67,
+  "att": 68,
+  "mid": 67,
+  "def": 67
+ },
+ {
+  "id": 301,
+  "url": "/26/team/301/widzew-lodz",
+  "name": "Widzew Lódz",
+  "ovr": 69,
+  "att": 69,
+  "mid": 69,
+  "def": 69
+ },
+ {
+  "id": 10020,
+  "url": "/26/team/10020/estoril",
+  "name": "Estoril",
+  "ovr": 70,
+  "att": 71,
+  "mid": 71,
+  "def": 69
+ },
+ {
+  "id": 300,
+  "url": "/26/team/300/viking-fk",
+  "name": "Viking FK",
+  "ovr": 69,
+  "att": 69,
+  "mid": 69,
+  "def": 69
+ },
+ {
+  "id": 576,
+  "url": "/26/team/576/holstein-kiel",
+  "name": "Holstein Kiel",
+  "ovr": 69,
+  "att": 68,
+  "mid": 68,
+  "def": 69
+ },
+ {
+  "id": 100632,
+  "url": "/26/team/100632/go-ahead-eagles",
+  "name": "Go Ahead Eagles",
+  "ovr": 69,
+  "att": 68,
+  "mid": 69,
+  "def": 68
+ },
+ {
+  "id": 1809,
+  "url": "/26/team/1809/toulouse-fc",
+  "name": "Toulouse FC",
+  "ovr": 73,
+  "att": 73,
+  "mid": 73,
+  "def": 73
+ },
+ {
+  "id": 132588,
+  "url": "/26/team/132588/rc-lens",
+  "name": "RC Lens",
+  "ovr": 69,
+  "att": 70,
+  "mid": 68,
+  "def": 69
+ },
+ {
+  "id": 2055,
+  "url": "/26/team/2055/gimcheon-sangmu",
+  "name": "Gimcheon Sangmu",
+  "ovr": 65,
+  "att": 65,
+  "mid": 64,
+  "def": 63
+ },
+ {
+  "id": 132589,
+  "url": "/26/team/132589/1.-fc-union-berlin",
+  "name": "1. FC Union Berlin",
+  "ovr": 73,
+  "att": 75,
+  "mid": 73,
+  "def": 72
+ },
+ {
+  "id": 1929,
+  "url": "/26/team/1929/plymouth-argyle",
+  "name": "Plymouth Argyle",
+  "ovr": 66,
+  "att": 65,
+  "mid": 65,
+  "def": 66
+ },
+ {
+  "id": 10030,
+  "url": "/26/team/10030/sc-paderborn-07",
+  "name": "SC Paderborn 07",
+  "ovr": 68,
+  "att": 66,
+  "mid": 69,
+  "def": 69
+ },
+ {
+  "id": 100087,
+  "url": "/26/team/100087/oh-leuven",
+  "name": "OH Leuven",
+  "ovr": 69,
+  "att": 67,
+  "mid": 69,
+  "def": 70
+ },
+ {
+  "id": 100325,
+  "url": "/26/team/100325/hjk-helsinki",
+  "name": "HJK Helsinki",
+  "ovr": 63,
+  "att": 67,
+  "mid": 63,
+  "def": 63
+ },
+ {
+  "id": 131477,
+  "url": "/26/team/131477/bay-fc",
+  "name": "Bay FC",
+  "ovr": 75,
+  "att": 83,
+  "mid": 70,
+  "def": 71
+ },
+ {
+  "id": 1888,
+  "url": "/26/team/1888/gil-vicente-fc",
+  "name": "Gil Vicente FC",
+  "ovr": 70,
+  "att": 68,
+  "mid": 69,
+  "def": 69
+ },
+ {
+  "id": 543,
+  "url": "/26/team/543/jahn-regensburg",
+  "name": "Jahn Regensburg",
+  "ovr": 64,
+  "att": 63,
+  "mid": 64,
+  "def": 63
+ },
+ {
+  "id": 100646,
+  "url": "/26/team/100646/sparta-rotterdam",
+  "name": "Sparta Rotterdam",
+  "ovr": 68,
+  "att": 73,
+  "mid": 67,
+  "def": 67
+ },
+ {
+  "id": 100757,
+  "url": "/26/team/100757/dinamo-bucure-ti",
+  "name": "Dinamo Bucure?ti",
+  "ovr": 67,
+  "att": 67,
+  "mid": 69,
+  "def": 68
+ },
+ {
+  "id": 1891,
+  "url": "/26/team/1891/nacional-da-madeira",
+  "name": "Nacional da Madeira",
+  "ovr": 68,
+  "att": 69,
+  "mid": 68,
+  "def": 68
+ },
+ {
+  "id": 1860,
+  "url": "/26/team/1860/getafe-cf",
+  "name": "Getafe CF",
+  "ovr": 76,
+  "att": 75,
+  "mid": 77,
+  "def": 75
+ },
+ {
+  "id": 131391,
+  "url": "/26/team/131391/granada-cf",
+  "name": "Granada CF",
+  "ovr": 71,
+  "att": 70,
+  "mid": 74,
+  "def": 67
+ },
+ {
+  "id": 1900,
+  "url": "/26/team/1900/moreirense",
+  "name": "Moreirense",
+  "ovr": 68,
+  "att": 65,
+  "mid": 68,
+  "def": 68
+ },
+ {
+  "id": 100805,
+  "url": "/26/team/100805/st.-mirren",
+  "name": "St. Mirren",
+  "ovr": 64,
+  "att": 64,
+  "mid": 65,
+  "def": 63
+ },
+ {
+  "id": 100888,
+  "url": "/26/team/100888/cd-leganes",
+  "name": "CD Leganés",
+  "ovr": 69,
+  "att": 68,
+  "mid": 69,
+  "def": 68
+ },
+ {
+  "id": 131386,
+  "url": "/26/team/131386/1.-fc-nurnberg",
+  "name": "1. FC Nürnberg",
+  "ovr": 70,
+  "att": 70,
+  "mid": 71,
+  "def": 69
+ },
+ {
+  "id": 379,
+  "url": "/26/team/379/stade-de-reims",
+  "name": "Stade de Reims",
+  "ovr": 69,
+  "att": 68,
+  "mid": 68,
+  "def": 68
+ },
+ {
+  "id": 110062,
+  "url": "/26/team/110062/girona-fc",
+  "name": "Girona FC",
+  "ovr": 77,
+  "att": 76,
+  "mid": 77,
+  "def": 76
+ },
+ {
+  "id": 2041,
+  "url": "/26/team/2041/fredrikstad-fk",
+  "name": "Fredrikstad FK",
+  "ovr": 65,
+  "att": 65,
+  "mid": 67,
+  "def": 63
+ },
+ {
+  "id": 1715,
+  "url": "/26/team/1715/fc-thun",
+  "name": "FC Thun",
+  "ovr": 66,
+  "att": 64,
+  "mid": 66,
+  "def": 67
+ },
+ {
+  "id": 1924,
+  "url": "/26/team/1924/chesterfield",
+  "name": "Chesterfield",
+  "ovr": 63,
+  "att": 60,
+  "mid": 63,
+  "def": 63
+ },
+ {
+  "id": 1938,
+  "url": "/26/team/1938/peterborough-united",
+  "name": "Peterborough United",
+  "ovr": 64,
+  "att": 66,
+  "mid": 64,
+  "def": 64
+ },
+ {
+  "id": 1962,
+  "url": "/26/team/1962/bristol-rovers",
+  "name": "Bristol Rovers",
+  "ovr": 62,
+  "att": 61,
+  "mid": 62,
+  "def": 63
+ },
+ {
+  "id": 1934,
+  "url": "/26/team/1934/swindon-town",
+  "name": "Swindon Town",
+  "ovr": 62,
+  "att": 64,
+  "mid": 63,
+  "def": 62
+ },
+ {
+  "id": 110404,
+  "url": "/26/team/110404/banfield",
+  "name": "Banfield",
+  "ovr": 68,
+  "att": 68,
+  "mid": 67,
+  "def": 67
+ },
+ {
+  "id": 1931,
+  "url": "/26/team/1931/stockport-county",
+  "name": "Stockport County",
+  "ovr": 66,
+  "att": 65,
+  "mid": 66,
+  "def": 65
+ },
+ {
+  "id": 110720,
+  "url": "/26/team/110720/blau-weiss-linz",
+  "name": "Blau-Weiß Linz",
+  "ovr": 67,
+  "att": 68,
+  "mid": 66,
+  "def": 65
+ },
+ {
+  "id": 116331,
+  "url": "/26/team/116331/sd-eibar",
+  "name": "SD Eibar",
+  "ovr": 67,
+  "att": 64,
+  "mid": 65,
+  "def": 71
+ },
+ {
+  "id": 110745,
+  "url": "/26/team/110745/jagiellonia-bialystok",
+  "name": "Jagiellonia Bialystok",
+  "ovr": 69,
+  "att": 70,
+  "mid": 69,
+  "def": 69
+ },
+ {
+  "id": 110746,
+  "url": "/26/team/110746/pogon-szczecin",
+  "name": "Pogon Szczecin",
+  "ovr": 68,
+  "att": 68,
+  "mid": 68,
+  "def": 67
+ },
+ {
+  "id": 1750,
+  "url": "/26/team/1750/cercle-brugge",
+  "name": "Cercle Brugge",
+  "ovr": 67,
+  "att": 69,
+  "mid": 66,
+  "def": 67
+ },
+ {
+  "id": 116332,
+  "url": "/26/team/116332/costa-adeje-tenerife",
+  "name": "Costa Adeje Tenerife",
+  "ovr": 73,
+  "att": 71,
+  "mid": 75,
+  "def": 73
+ },
+ {
+  "id": 1951,
+  "url": "/26/team/1951/oxford-united",
+  "name": "Oxford United",
+  "ovr": 69,
+  "att": 67,
+  "mid": 68,
+  "def": 69
+ },
+ {
+  "id": 272,
+  "url": "/26/team/272/odense-boldklub",
+  "name": "Odense Boldklub",
+  "ovr": 66,
+  "att": 66,
+  "mid": 67,
+  "def": 65
+ },
+ {
+  "id": 110075,
+  "url": "/26/team/110075/farul-constan-a",
+  "name": "Farul Constan?a",
+  "ovr": 65,
+  "att": 66,
+  "mid": 66,
+  "def": 65
+ },
+ {
+  "id": 1713,
+  "url": "/26/team/1713/fc-winterthur",
+  "name": "FC Winterthur",
+  "ovr": 65,
+  "att": 65,
+  "mid": 64,
+  "def": 65
+ },
+ {
+  "id": 1910,
+  "url": "/26/team/1910/n.e.c.-nijmegen",
+  "name": "N.E.C. Nijmegen",
+  "ovr": 72,
+  "att": 71,
+  "mid": 71,
+  "def": 71
+ },
+ {
+  "id": 110069,
+  "url": "/26/team/110069/cd-mirandes",
+  "name": "CD Mirandés",
+  "ovr": 67,
+  "att": 67,
+  "mid": 66,
+  "def": 66
+ },
+ {
+  "id": 1917,
+  "url": "/26/team/1917/wigan-athletic",
+  "name": "Wigan Athletic",
+  "ovr": 64,
+  "att": 65,
+  "mid": 63,
+  "def": 64
+ },
+ {
+  "id": 116361,
+  "url": "/26/team/116361/wuhan-three-towns",
+  "name": "Wuhan Three Towns",
+  "ovr": 60,
+  "att": 64,
+  "mid": 58,
+  "def": 61
+ },
+ {
+  "id": 175,
+  "url": "/26/team/175/vfl-wolfsburg",
+  "name": "VfL Wolfsburg",
+  "ovr": 76,
+  "att": 76,
+  "mid": 76,
+  "def": 74
+ },
+ {
+  "id": 112494,
+  "url": "/26/team/112494/sudtirol",
+  "name": "Südtirol",
+  "ovr": 68,
+  "att": 67,
+  "mid": 69,
+  "def": 68
+ },
+ {
+  "id": 115202,
+  "url": "/26/team/115202/punjab-fc",
+  "name": "Punjab FC",
+  "ovr": 57,
+  "att": 60,
+  "mid": 56,
+  "def": 56
+ },
+ {
+  "id": 112472,
+  "url": "/26/team/112472/rb-bragantino",
+  "name": "RB Bragantino",
+  "ovr": 74,
+  "att": 71,
+  "mid": 75,
+  "def": 75
+ },
+ {
+  "id": 114628,
+  "url": "/26/team/114628/meizhou-hakka",
+  "name": "Meizhou Hakka",
+  "ovr": 60,
+  "att": 65,
+  "mid": 59,
+  "def": 60
+ },
+ {
+  "id": 112199,
+  "url": "/26/team/112199/sarpsborg-08",
+  "name": "Sarpsborg 08",
+  "ovr": 65,
+  "att": 65,
+  "mid": 65,
+  "def": 65
+ },
+ {
+  "id": 718,
+  "url": "/26/team/718/estrela-da-amadora",
+  "name": "Estrela da Amadora",
+  "ovr": 68,
+  "att": 68,
+  "mid": 65,
+  "def": 66
+ },
+ {
+  "id": 1447,
+  "url": "/26/team/1447/sonderjyske-fodbold",
+  "name": "Sønderjyske Fodbold",
+  "ovr": 65,
+  "att": 64,
+  "mid": 65,
+  "def": 66
+ },
+ {
+  "id": 112259,
+  "url": "/26/team/112259/afc-wimbledon",
+  "name": "AFC Wimbledon",
+  "ovr": 63,
+  "att": 63,
+  "mid": 63,
+  "def": 64
+ },
+ {
+  "id": 112072,
+  "url": "/26/team/112072/mjallby-aif",
+  "name": "Mjällby AIF",
+  "ovr": 67,
+  "att": 67,
+  "mid": 68,
+  "def": 69
+ },
+ {
+  "id": 1920,
+  "url": "/26/team/1920/oldham-athletic",
+  "name": "Oldham Athletic",
+  "ovr": 61,
+  "att": 61,
+  "mid": 60,
+  "def": 61
+ },
+ {
+  "id": 113458,
+  "url": "/26/team/113458/ik-sirius",
+  "name": "IK Sirius",
+  "ovr": 65,
+  "att": 69,
+  "mid": 64,
+  "def": 64
+ },
+ {
+  "id": 1914,
+  "url": "/26/team/1914/pec-zwolle",
+  "name": "PEC Zwolle",
+  "ovr": 67,
+  "att": 67,
+  "mid": 67,
+  "def": 66
+ },
+ {
+  "id": 112112,
+  "url": "/26/team/112112/juventud-de-las-piedras",
+  "name": "Juventud de Las Piedras",
+  "ovr": 67,
+  "att": 66,
+  "mid": 66,
+  "def": 67
+ },
+ {
+  "id": 1928,
+  "url": "/26/team/1928/port-vale",
+  "name": "Port Vale",
+  "ovr": 64,
+  "att": 65,
+  "mid": 63,
+  "def": 65
+ },
+ {
+  "id": 112172,
+  "url": "/26/team/112172/rb-leipzig",
+  "name": "RB Leipzig",
+  "ovr": 79,
+  "att": 78,
+  "mid": 78,
+  "def": 79
+ },
+ {
+  "id": 1438,
+  "url": "/26/team/1438/santa-clara",
+  "name": "Santa Clara",
+  "ovr": 69,
+  "att": 70,
+  "mid": 68,
+  "def": 69
+ },
+ {
+  "id": 1463,
+  "url": "/26/team/1463/fk-haugesund",
+  "name": "FK Haugesund",
+  "ovr": 62,
+  "att": 63,
+  "mid": 61,
+  "def": 62
+ },
+ {
+  "id": 112513,
+  "url": "/26/team/112513/arouca",
+  "name": "Arouca",
+  "ovr": 69,
+  "att": 67,
+  "mid": 69,
+  "def": 69
+ },
+ {
+  "id": 70,
+  "url": "/26/team/70/montpellier-hsc",
+  "name": "Montpellier HSC",
+  "ovr": 68,
+  "att": 70,
+  "mid": 67,
+  "def": 69
+ },
+ {
+  "id": 822,
+  "url": "/26/team/822/vejle-bk",
+  "name": "Vejle BK",
+  "ovr": 65,
+  "att": 65,
+  "mid": 64,
+  "def": 65
+ },
+ {
+  "id": 113037,
+  "url": "/26/team/113037/al-riyadh",
+  "name": "Al Riyadh",
+  "ovr": 65,
+  "att": 63,
+  "mid": 65,
+  "def": 61
+ },
+ {
+  "id": 113040,
+  "url": "/26/team/113040/northeast-united",
+  "name": "NorthEast United",
+  "ovr": 57,
+  "att": 51,
+  "mid": 62,
+  "def": 54
+ },
+ {
+  "id": 113057,
+  "url": "/26/team/113057/al-fayha",
+  "name": "Al Fayha",
+  "ovr": 66,
+  "att": 67,
+  "mid": 65,
+  "def": 67
+ },
+ {
+  "id": 1798,
+  "url": "/26/team/1798/milton-keynes-dons",
+  "name": "Milton Keynes Dons",
+  "ovr": 65,
+  "att": 66,
+  "mid": 65,
+  "def": 65
+ },
+ {
+  "id": 1797,
+  "url": "/26/team/1797/rotherham-united",
+  "name": "Rotherham United",
+  "ovr": 64,
+  "att": 63,
+  "mid": 64,
+  "def": 64
+ },
+ {
+  "id": 113143,
+  "url": "/26/team/113143/montevideo-city-torque",
+  "name": "Montevideo City Torque",
+  "ovr": 66,
+  "att": 65,
+  "mid": 68,
+  "def": 65
+ },
+ {
+  "id": 753,
+  "url": "/26/team/753/waterford",
+  "name": "Waterford",
+  "ovr": 59,
+  "att": 60,
+  "mid": 59,
+  "def": 57
+ },
+ {
+  "id": 1738,
+  "url": "/26/team/1738/le-havre-ac",
+  "name": "Le Havre AC",
+  "ovr": 72,
+  "att": 71,
+  "mid": 72,
+  "def": 72
+ },
+ {
+  "id": 113217,
+  "url": "/26/team/113217/damac-fc",
+  "name": "Damac FC",
+  "ovr": 65,
+  "att": 66,
+  "mid": 64,
+  "def": 66
+ },
+ {
+  "id": 113459,
+  "url": "/26/team/113459/kristiansund-bk",
+  "name": "Kristiansund BK",
+  "ovr": 62,
+  "att": 63,
+  "mid": 62,
+  "def": 61
+ },
+ {
+  "id": 1786,
+  "url": "/26/team/1786/randers-fc",
+  "name": "Randers FC",
+  "ovr": 68,
+  "att": 64,
+  "mid": 68,
+  "def": 68
+ },
+ {
+  "id": 1757,
+  "url": "/26/team/1757/sandefjord-fotball",
+  "name": "Sandefjord Fotball",
+  "ovr": 63,
+  "att": 61,
+  "mid": 63,
+  "def": 63
+ },
+ {
+  "id": 127,
+  "url": "/26/team/127/shrewsbury-town",
+  "name": "Shrewsbury Town",
+  "ovr": 61,
+  "att": 58,
+  "mid": 60,
+  "def": 62
+ },
+ {
+  "id": 1756,
+  "url": "/26/team/1756/hamkam-fotball",
+  "name": "HamKam Fotball",
+  "ovr": 63,
+  "att": 57,
+  "mid": 64,
+  "def": 63
+ },
+ {
+  "id": 1802,
+  "url": "/26/team/1802/gillingham",
+  "name": "Gillingham",
+  "ovr": 62,
+  "att": 62,
+  "mid": 62,
+  "def": 62
+ },
+ {
+  "id": 121,
+  "url": "/26/team/121/crewe-alexandra",
+  "name": "Crewe Alexandra",
+  "ovr": 61,
+  "att": 61,
+  "mid": 61,
+  "def": 61
+ },
+ {
+  "id": 580,
+  "url": "/26/team/580/sv-elversberg",
+  "name": "SV Elversberg",
+  "ovr": 68,
+  "att": 65,
+  "mid": 69,
+  "def": 68
+ },
+ {
+  "id": 492,
+  "url": "/26/team/492/sv-wehen-wiesbaden",
+  "name": "SV Wehen Wiesbaden",
+  "ovr": 65,
+  "att": 64,
+  "mid": 65,
+  "def": 62
+ },
+ {
+  "id": 131826,
+  "url": "/26/team/131826/recoleta-fc",
+  "name": "Recoleta FC",
+  "ovr": 66,
+  "att": 64,
+  "mid": 67,
+  "def": 66
+ },
+ {
+  "id": 1870,
+  "url": "/26/team/1870/osters-if",
+  "name": "Östers IF",
+  "ovr": 62,
+  "att": 62,
+  "mid": 62,
+  "def": 63
+ },
+ {
+  "id": 110751,
+  "url": "/26/team/110751/universitatea-cluj",
+  "name": "Universitatea Cluj",
+  "ovr": 68,
+  "att": 70,
+  "mid": 67,
+  "def": 68
+ },
+ {
+  "id": 1854,
+  "url": "/26/team/1854/albacete-balompie",
+  "name": "Albacete Balompié",
+  "ovr": 68,
+  "att": 68,
+  "mid": 68,
+  "def": 68
+ },
+ {
+  "id": 112689,
+  "url": "/26/team/112689/platense",
+  "name": "Platense",
+  "ovr": 70,
+  "att": 71,
+  "mid": 68,
+  "def": 69
+ },
+ {
+  "id": 1842,
+  "url": "/26/team/1842/cagliari",
+  "name": "Cagliari",
+  "ovr": 73,
+  "att": 72,
+  "mid": 72,
+  "def": 73
+ },
+ {
+  "id": 418,
+  "url": "/26/team/418/tromso-il",
+  "name": "Tromsø IL",
+  "ovr": 65,
+  "att": 63,
+  "mid": 65,
+  "def": 66
+ },
+ {
+  "id": 1530,
+  "url": "/26/team/1530/angers-sco",
+  "name": "Angers SCO",
+  "ovr": 72,
+  "att": 71,
+  "mid": 73,
+  "def": 70
+ },
+ {
+  "id": 112868,
+  "url": "/26/team/112868/boston-river",
+  "name": "Boston River",
+  "ovr": 66,
+  "att": 64,
+  "mid": 67,
+  "def": 64
+ },
+ {
+  "id": 1569,
+  "url": "/26/team/1569/wisla-plock",
+  "name": "Wisla Plock",
+  "ovr": 65,
+  "att": 65,
+  "mid": 66,
+  "def": 65
+ },
+ {
+  "id": 112965,
+  "url": "/26/team/112965/central-cordoba",
+  "name": "Central Córdoba",
+  "ovr": 66,
+  "att": 65,
+  "mid": 67,
+  "def": 65
+ },
+ {
+  "id": 1572,
+  "url": "/26/team/1572/drogheda-united",
+  "name": "Drogheda United",
+  "ovr": 59,
+  "att": 60,
+  "mid": 58,
+  "def": 60
+ },
+ {
+  "id": 114168,
+  "url": "/26/team/114168/jamshedpur-fc",
+  "name": "Jamshedpur FC",
+  "ovr": 58,
+  "att": 63,
+  "mid": 56,
+  "def": 58
+ },
+ {
+  "id": 1803,
+  "url": "/26/team/1803/walsall",
+  "name": "Walsall",
+  "ovr": 62,
+  "att": 64,
+  "mid": 61,
+  "def": 62
+ },
+ {
+  "id": 113301,
+  "url": "/26/team/113301/sc-delhi",
+  "name": "SC Delhi",
+  "ovr": 55,
+  "att": 53,
+  "mid": 55,
+  "def": 54
+ },
+ {
+  "id": 717,
+  "url": "/26/team/717/alverca",
+  "name": "Alverca",
+  "ovr": 68,
+  "att": 70,
+  "mid": 66,
+  "def": 68
+ },
+ {
+  "id": 110750,
+  "url": "/26/team/110750/uta-arad",
+  "name": "UTA Arad",
+  "ovr": 65,
+  "att": 65,
+  "mid": 65,
+  "def": 66
+ },
+ {
+  "id": 110072,
+  "url": "/26/team/110072/sc-o-elul-gala-i",
+  "name": "SC O?elul Gala?i",
+  "ovr": 65,
+  "att": 64,
+  "mid": 65,
+  "def": 65
+ },
+ {
+  "id": 111082,
+  "url": "/26/team/111082/arka-gdynia",
+  "name": "Arka Gdynia",
+  "ovr": 64,
+  "att": 64,
+  "mid": 64,
+  "def": 63
+ },
+ {
+  "id": 111083,
+  "url": "/26/team/111083/korona-kielce",
+  "name": "Korona Kielce",
+  "ovr": 66,
+  "att": 66,
+  "mid": 67,
+  "def": 66
+ },
+ {
+  "id": 111088,
+  "url": "/26/team/111088/radomiak-radom",
+  "name": "Radomiak Radom",
+  "ovr": 66,
+  "att": 66,
+  "mid": 66,
+  "def": 67
+ },
+ {
+  "id": 111091,
+  "url": "/26/team/111091/lechia-gdansk",
+  "name": "Lechia Gdansk",
+  "ovr": 66,
+  "att": 67,
+  "mid": 67,
+  "def": 65
+ },
+ {
+  "id": 111097,
+  "url": "/26/team/111097/motor-lublin",
+  "name": "Motor Lublin",
+  "ovr": 66,
+  "att": 67,
+  "mid": 68,
+  "def": 65
+ },
+ {
+  "id": 131173,
+  "url": "/26/team/131173/qingdao-hainiu-fc",
+  "name": "Qingdao Hainiu FC",
+  "ovr": 58,
+  "att": 57,
+  "mid": 60,
+  "def": 57
+ },
+ {
+  "id": 131174,
+  "url": "/26/team/131174/eyupspor",
+  "name": "Eyüpspor",
+  "ovr": 65,
+  "att": 64,
+  "mid": 65,
+  "def": 63
+ },
+ {
+  "id": 116044,
+  "url": "/26/team/116044/as-saint-etienne",
+  "name": "AS Saint-Étienne",
+  "ovr": 70,
+  "att": 71,
+  "mid": 71,
+  "def": 70
+ },
+ {
+  "id": 645,
+  "url": "/26/team/645/fc-volendam",
+  "name": "FC Volendam",
+  "ovr": 66,
+  "att": 66,
+  "mid": 67,
+  "def": 66
+ },
+ {
+  "id": 116036,
+  "url": "/26/team/116036/fc-fleury-91",
+  "name": "FC Fleury 91",
+  "ovr": 74,
+  "att": 70,
+  "mid": 75,
+  "def": 75
+ },
+ {
+  "id": 206,
+  "url": "/26/team/206/hellas-verona",
+  "name": "Hellas Verona",
+  "ovr": 73,
+  "att": 70,
+  "mid": 73,
+  "def": 71
+ },
+ {
+  "id": 101037,
+  "url": "/26/team/101037/caykur-rizespor",
+  "name": "Çaykur Rizespor",
+  "ovr": 68,
+  "att": 69,
+  "mid": 67,
+  "def": 68
+ },
+ {
+  "id": 131125,
+  "url": "/26/team/131125/fc-badalona-women",
+  "name": "FC Badalona Women",
+  "ovr": 74,
+  "att": 77,
+  "mid": 74,
+  "def": 73
+ },
+ {
+  "id": 321,
+  "url": "/26/team/321/halmstads-bk",
+  "name": "Halmstads BK",
+  "ovr": 63,
+  "att": 62,
+  "mid": 63,
+  "def": 63
+ },
+ {
+  "id": 101020,
+  "url": "/26/team/101020/kayserispor",
+  "name": "Kayserispor",
+  "ovr": 68,
+  "att": 69,
+  "mid": 69,
+  "def": 67
+ },
+ {
+  "id": 110078,
+  "url": "/26/team/110078/petrolul-ploie-ti",
+  "name": "Petrolul Ploie?ti",
+  "ovr": 65,
+  "att": 66,
+  "mid": 64,
+  "def": 65
+ },
+ {
+  "id": 131123,
+  "url": "/26/team/131123/alhama-fc",
+  "name": "Alhama FC",
+  "ovr": 68,
+  "att": 70,
+  "mid": 68,
+  "def": 65
+ },
+ {
+  "id": 110752,
+  "url": "/26/team/110752/fc-boto-ani",
+  "name": "FC Boto?ani",
+  "ovr": 66,
+  "att": 63,
+  "mid": 66,
+  "def": 65
+ },
+ {
+  "id": 110776,
+  "url": "/26/team/110776/gaziantep-fk",
+  "name": "Gaziantep FK",
+  "ovr": 69,
+  "att": 72,
+  "mid": 68,
+  "def": 67
+ },
+ {
+  "id": 110839,
+  "url": "/26/team/110839/sd-huesca",
+  "name": "SD Huesca",
+  "ovr": 67,
+  "att": 67,
+  "mid": 67,
+  "def": 66
+ },
+ {
+  "id": 110711,
+  "url": "/26/team/110711/real-sociedad-b",
+  "name": "Real Sociedad B",
+  "ovr": 64,
+  "att": 64,
+  "mid": 64,
+  "def": 64
+ },
+ {
+  "id": 110697,
+  "url": "/26/team/110697/vfb-stuttgart-ii",
+  "name": "VfB Stuttgart II",
+  "ovr": 61,
+  "att": 62,
+  "mid": 61,
+  "def": 62
+ },
+ {
+  "id": 58,
+  "url": "/26/team/58/sc-bastia",
+  "name": "SC Bastia",
+  "ovr": 66,
+  "att": 64,
+  "mid": 67,
+  "def": 66
+ },
+ {
+  "id": 62,
+  "url": "/26/team/62/en-avant-guingamp",
+  "name": "En Avant Guingamp",
+  "ovr": 67,
+  "att": 66,
+  "mid": 66,
+  "def": 67
+ },
+ {
+  "id": 110678,
+  "url": "/26/team/110678/tsv-havelse",
+  "name": "TSV Havelse",
+  "ovr": 62,
+  "att": 62,
+  "mid": 62,
+  "def": 62
+ },
+ {
+  "id": 110645,
+  "url": "/26/team/110645/viktoria-koln",
+  "name": "Viktoria Köln",
+  "ovr": 64,
+  "att": 62,
+  "mid": 64,
+  "def": 64
+ },
+ {
+  "id": 110501,
+  "url": "/26/team/110501/sc-verl",
+  "name": "SC Verl",
+  "ovr": 65,
+  "att": 62,
+  "mid": 65,
+  "def": 64
+ },
+ {
+  "id": 110982,
+  "url": "/26/team/110982/deportivo-cuenca",
+  "name": "Deportivo Cuenca",
+  "ovr": 66,
+  "att": 66,
+  "mid": 66,
+  "def": 66
+ },
+ {
+  "id": 116308,
+  "url": "/26/team/116308/racing-louisville-fc",
+  "name": "Racing Louisville FC",
+  "ovr": 74,
+  "att": 70,
+  "mid": 72,
+  "def": 73
+ },
+ {
+  "id": 116305,
+  "url": "/26/team/116305/chicago-stars-fc",
+  "name": "Chicago Stars FC",
+  "ovr": 76,
+  "att": 74,
+  "mid": 76,
+  "def": 73
+ },
+ {
+  "id": 116416,
+  "url": "/26/team/116416/le-havre-ac",
+  "name": "Le Havre AC",
+  "ovr": 72,
+  "att": 70,
+  "mid": 72,
+  "def": 70
+ },
+ {
+  "id": 110206,
+  "url": "/26/team/110206/gks-katowice",
+  "name": "GKS Katowice",
+  "ovr": 67,
+  "att": 66,
+  "mid": 67,
+  "def": 67
+ },
+ {
+  "id": 110749,
+  "url": "/26/team/110749/zaglebie-lubin",
+  "name": "Zaglebie Lubin",
+  "ovr": 66,
+  "att": 66,
+  "mid": 65,
+  "def": 66
+ },
+ {
+  "id": 111396,
+  "url": "/26/team/111396/central-coast-mariners",
+  "name": "Central Coast Mariners",
+  "ovr": 62,
+  "att": 59,
+  "mid": 61,
+  "def": 63
+ },
+ {
+  "id": 111398,
+  "url": "/26/team/111398/newcastle-jets",
+  "name": "Newcastle Jets",
+  "ovr": 64,
+  "att": 65,
+  "mid": 64,
+  "def": 62
+ },
+ {
+  "id": 1930,
+  "url": "/26/team/1930/northampton-town",
+  "name": "Northampton Town",
+  "ovr": 63,
+  "att": 62,
+  "mid": 63,
+  "def": 64
+ },
+ {
+  "id": 131488,
+  "url": "/26/team/131488/qingdao-west-coast-fc",
+  "name": "Qingdao West Coast FC",
+  "ovr": 61,
+  "att": 55,
+  "mid": 66,
+  "def": 58
+ },
+ {
+  "id": 111657,
+  "url": "/26/team/111657/frosinone",
+  "name": "Frosinone",
+  "ovr": 68,
+  "att": 69,
+  "mid": 69,
+  "def": 68
+ },
+ {
+  "id": 468,
+  "url": "/26/team/468/elche-cf",
+  "name": "Elche CF",
+  "ovr": 74,
+  "att": 74,
+  "mid": 73,
+  "def": 74
+ },
+ {
+  "id": 111706,
+  "url": "/26/team/111706/godoy-cruz",
+  "name": "Godoy Cruz",
+  "ovr": 67,
+  "att": 68,
+  "mid": 66,
+  "def": 67
+ },
+ {
+  "id": 111710,
+  "url": "/26/team/111710/defensa-y-justicia",
+  "name": "Defensa y Justicia",
+  "ovr": 70,
+  "att": 69,
+  "mid": 69,
+  "def": 69
+ },
+ {
+  "id": 2017,
+  "url": "/26/team/2017/hartberg",
+  "name": "Hartberg",
+  "ovr": 65,
+  "att": 65,
+  "mid": 65,
+  "def": 63
+ },
+ {
+  "id": 10846,
+  "url": "/26/team/10846/burgos-cf",
+  "name": "Burgos CF",
+  "ovr": 69,
+  "att": 69,
+  "mid": 69,
+  "def": 68
+ },
+ {
+  "id": 111713,
+  "url": "/26/team/111713/san-martin-de-san-juan",
+  "name": "San Martín de San Juan",
+  "ovr": 63,
+  "att": 62,
+  "mid": 64,
+  "def": 63
+ },
+ {
+  "id": 1478,
+  "url": "/26/team/1478/jeju-sk-fc",
+  "name": "Jeju SK FC",
+  "ovr": 65,
+  "att": 64,
+  "mid": 64,
+  "def": 63
+ },
+ {
+  "id": 114147,
+  "url": "/26/team/114147/fc-hermannstadt",
+  "name": "FC Hermannstadt",
+  "ovr": 64,
+  "att": 64,
+  "mid": 65,
+  "def": 64
+ },
+ {
+  "id": 1958,
+  "url": "/26/team/1958/leyton-orient",
+  "name": "Leyton Orient",
+  "ovr": 65,
+  "att": 67,
+  "mid": 64,
+  "def": 64
+ },
+ {
+  "id": 1944,
+  "url": "/26/team/1944/cambridge-united",
+  "name": "Cambridge United",
+  "ovr": 63,
+  "att": 63,
+  "mid": 62,
+  "def": 63
+ },
+ {
+  "id": 1940,
+  "url": "/26/team/1940/mansfield-town",
+  "name": "Mansfield Town",
+  "ovr": 64,
+  "att": 64,
+  "mid": 63,
+  "def": 63
+ },
+ {
+  "id": 1937,
+  "url": "/26/team/1937/notts-county",
+  "name": "Notts County",
+  "ovr": 63,
+  "att": 63,
+  "mid": 63,
+  "def": 62
+ },
+ {
+  "id": 1936,
+  "url": "/26/team/1936/cheltenham-town",
+  "name": "Cheltenham Town",
+  "ovr": 62,
+  "att": 60,
+  "mid": 62,
+  "def": 62
+ },
+ {
+  "id": 1933,
+  "url": "/26/team/1933/wycombe-wanderers",
+  "name": "Wycombe Wanderers",
+  "ovr": 66,
+  "att": 67,
+  "mid": 66,
+  "def": 66
+ },
+ {
+  "id": 111594,
+  "url": "/26/team/111594/gais",
+  "name": "GAIS",
+  "ovr": 66,
+  "att": 63,
+  "mid": 63,
+  "def": 66
+ },
+ {
+  "id": 131531,
+  "url": "/26/team/131531/yunnan-yukun",
+  "name": "Yunnan Yukun",
+  "ovr": 60,
+  "att": 70,
+  "mid": 63,
+  "def": 58
+ },
+ {
+  "id": 92,
+  "url": "/26/team/92/grimsby-town",
+  "name": "Grimsby Town",
+  "ovr": 62,
+  "att": 63,
+  "mid": 62,
+  "def": 61
+ },
+ {
+  "id": 563,
+  "url": "/26/team/563/sligo-rovers",
+  "name": "Sligo Rovers",
+  "ovr": 59,
+  "att": 58,
+  "mid": 60,
+  "def": 58
+ },
+ {
+  "id": 100759,
+  "url": "/26/team/100759/fc-arge",
+  "name": "FC Arge?",
+  "ovr": 65,
+  "att": 65,
+  "mid": 64,
+  "def": 65
+ },
+ {
+  "id": 116005,
+  "url": "/26/team/116005/fc-carl-zeiss-jena",
+  "name": "FC Carl Zeiss Jena",
+  "ovr": 69,
+  "att": 70,
+  "mid": 68,
+  "def": 67
+ },
+ {
+  "id": 15048,
+  "url": "/26/team/15048/tranmere-rovers",
+  "name": "Tranmere Rovers",
+  "ovr": 62,
+  "att": 62,
+  "mid": 60,
+  "def": 62
+ },
+ {
+  "id": 100634,
+  "url": "/26/team/100634/heracles-almelo",
+  "name": "Heracles Almelo",
+  "ovr": 67,
+  "att": 68,
+  "mid": 66,
+  "def": 66
+ },
+ {
+  "id": 116014,
+  "url": "/26/team/116014/west-ham-united",
+  "name": "West Ham United",
+  "ovr": 76,
+  "att": 77,
+  "mid": 76,
+  "def": 75
+ },
+ {
+  "id": 634,
+  "url": "/26/team/634/fortuna-sittard",
+  "name": "Fortuna Sittard",
+  "ovr": 68,
+  "att": 68,
+  "mid": 68,
+  "def": 67
+ },
+ {
+  "id": 131447,
+  "url": "/26/team/131447/fc-annecy",
+  "name": "FC Annecy",
+  "ovr": 66,
+  "att": 64,
+  "mid": 67,
+  "def": 66
+ },
+ {
+  "id": 132680,
+  "url": "/26/team/132680/us-boulogne",
+  "name": "US Boulogne",
+  "ovr": 64,
+  "att": 62,
+  "mid": 65,
+  "def": 64
+ },
+ {
+  "id": 131487,
+  "url": "/26/team/131487/shenzhen-peng-city",
+  "name": "Shenzhen Peng City",
+  "ovr": 59,
+  "att": 61,
+  "mid": 61,
+  "def": 58
+ },
+ {
+  "id": 114546,
+  "url": "/26/team/114546/fk-csikszereda-miercurea-ciuc",
+  "name": "FK Csíkszereda Miercurea Ciuc",
+  "ovr": 62,
+  "att": 64,
+  "mid": 62,
+  "def": 62
+ },
+ {
+  "id": 621,
+  "url": "/26/team/621/livingston",
+  "name": "Livingston",
+  "ovr": 64,
+  "att": 63,
+  "mid": 64,
+  "def": 62
+ },
+ {
+  "id": 114554,
+  "url": "/26/team/114554/fc-andorra",
+  "name": "FC Andorra",
+  "ovr": 67,
+  "att": 67,
+  "mid": 66,
+  "def": 67
+ },
+ {
+  "id": 537,
+  "url": "/26/team/537/dender",
+  "name": "Dender",
+  "ovr": 68,
+  "att": 68,
+  "mid": 67,
+  "def": 67
+ },
+ {
+  "id": 131459,
+  "url": "/26/team/131459/unirea-slobozia",
+  "name": "Unirea Slobozia",
+  "ovr": 63,
+  "att": 64,
+  "mid": 63,
+  "def": 63
+ },
+ {
+  "id": 131735,
+  "url": "/26/team/131735/al-kholood",
+  "name": "Al Kholood",
+  "ovr": 66,
+  "att": 68,
+  "mid": 64,
+  "def": 66
+ },
+ {
+  "id": 131724,
+  "url": "/26/team/131724/rc-strasbourg",
+  "name": "RC Strasbourg",
+  "ovr": 71,
+  "att": 73,
+  "mid": 69,
+  "def": 71
+ },
+ {
+  "id": 114510,
+  "url": "/26/team/114510/casa-pia",
+  "name": "Casa Pia",
+  "ovr": 70,
+  "att": 69,
+  "mid": 68,
+  "def": 68
+ },
+ {
+  "id": 114545,
+  "url": "/26/team/114545/metaloglobus-bucure-ti",
+  "name": "Metaloglobus Bucure?ti",
+  "ovr": 62,
+  "att": 62,
+  "mid": 62,
+  "def": 60
+ },
+ {
+  "id": 131491,
+  "url": "/26/team/131491/kfum-kameratene-oslo",
+  "name": "KFUM-Kameratene Oslo",
+  "ovr": 65,
+  "att": 63,
+  "mid": 64,
+  "def": 63
+ },
+ {
+  "id": 114604,
+  "url": "/26/team/114604/macarthur-fc",
+  "name": "Macarthur FC",
+  "ovr": 63,
+  "att": 66,
+  "mid": 62,
+  "def": 62
+ },
+ {
+  "id": 114611,
+  "url": "/26/team/114611/academia-puerto-cabello",
+  "name": "Academia Puerto Cabello",
+  "ovr": 66,
+  "att": 67,
+  "mid": 67,
+  "def": 66
+ },
+ {
+  "id": 113892,
+  "url": "/26/team/113892/degerfors-if",
+  "name": "Degerfors IF",
+  "ovr": 64,
+  "att": 64,
+  "mid": 62,
+  "def": 63
+ },
+ {
+  "id": 115472,
+  "url": "/26/team/115472/deportivo-riestra",
+  "name": "Deportivo Riestra",
+  "ovr": 65,
+  "att": 67,
+  "mid": 65,
+  "def": 64
+ },
+ {
+  "id": 131463,
+  "url": "/26/team/131463/avs-futebol-sad",
+  "name": "AVS Futebol SAD",
+  "ovr": 67,
+  "att": 67,
+  "mid": 66,
+  "def": 68
+ },
+ {
+  "id": 116039,
+  "url": "/26/team/116039/dijon-fco",
+  "name": "Dijon FCO",
+  "ovr": 72,
+  "att": 73,
+  "mid": 73,
+  "def": 71
+ },
+ {
+  "id": 116417,
+  "url": "/26/team/116417/fc-nantes",
+  "name": "FC Nantes",
+  "ovr": 73,
+  "att": 73,
+  "mid": 71,
+  "def": 75
+ },
+ {
+  "id": 1739,
+  "url": "/26/team/1739/le-mans-fc",
+  "name": "Le Mans FC",
+  "ovr": 65,
+  "att": 65,
+  "mid": 66,
+  "def": 64
+ },
+ {
+  "id": 1744,
+  "url": "/26/team/1744/modena",
+  "name": "Modena",
+  "ovr": 69,
+  "att": 68,
+  "mid": 69,
+  "def": 70
+ },
+ {
+  "id": 294,
+  "url": "/26/team/294/estac-troyes",
+  "name": "ESTAC Troyes",
+  "ovr": 67,
+  "att": 67,
+  "mid": 67,
+  "def": 66
+ },
+ {
+  "id": 110313,
+  "url": "/26/team/110313/accrington-stanley",
+  "name": "Accrington Stanley",
+  "ovr": 60,
+  "att": 60,
+  "mid": 60,
+  "def": 60
+ },
+ {
+  "id": 110321,
+  "url": "/26/team/110321/pau-fc",
+  "name": "Pau FC",
+  "ovr": 65,
+  "att": 65,
+  "mid": 66,
+  "def": 64
+ },
+ {
+  "id": 110685,
+  "url": "/26/team/110685/tsg-1899-hoffenheim-ii",
+  "name": "TSG 1899 Hoffenheim II",
+  "ovr": 60,
+  "att": 59,
+  "mid": 61,
+  "def": 62
+ },
+ {
+  "id": 110738,
+  "url": "/26/team/110738/pisa",
+  "name": "Pisa",
+  "ovr": 72,
+  "att": 70,
+  "mid": 72,
+  "def": 71
+ },
+ {
+  "id": 110740,
+  "url": "/26/team/110740/reggiana",
+  "name": "Reggiana",
+  "ovr": 67,
+  "att": 67,
+  "mid": 66,
+  "def": 66
+ },
+ {
+  "id": 110890,
+  "url": "/26/team/110890/crawley-town",
+  "name": "Crawley Town",
+  "ovr": 62,
+  "att": 58,
+  "mid": 61,
+  "def": 61
+ },
+ {
+  "id": 110912,
+  "url": "/26/team/110912/padova",
+  "name": "Padova",
+  "ovr": 68,
+  "att": 69,
+  "mid": 68,
+  "def": 66
+ },
+ {
+  "id": 110915,
+  "url": "/26/team/110915/cesena",
+  "name": "Cesena",
+  "ovr": 68,
+  "att": 67,
+  "mid": 70,
+  "def": 67
+ },
+ {
+  "id": 110991,
+  "url": "/26/team/110991/carabobo-fc",
+  "name": "Carabobo FC",
+  "ovr": 66,
+  "att": 61,
+  "mid": 67,
+  "def": 66
+ },
+ {
+  "id": 15012,
+  "url": "/26/team/15012/cultural-leonesa",
+  "name": "Cultural Leonesa",
+  "ovr": 68,
+  "att": 66,
+  "mid": 67,
+  "def": 67
+ },
+ {
+  "id": 111020,
+  "url": "/26/team/111020/independiente-rivadavia",
+  "name": "Independiente Rivadavia",
+  "ovr": 70,
+  "att": 75,
+  "mid": 70,
+  "def": 70
+ },
+ {
+  "id": 111276,
+  "url": "/26/team/111276/usl-dunkerque",
+  "name": "USL Dunkerque",
+  "ovr": 67,
+  "att": 67,
+  "mid": 66,
+  "def": 67
+ },
+ {
+  "id": 200,
+  "url": "/26/team/200/pescara",
+  "name": "Pescara",
+  "ovr": 68,
+  "att": 65,
+  "mid": 69,
+  "def": 67
+ },
+ {
+  "id": 111433,
+  "url": "/26/team/111433/mantova",
+  "name": "Mantova",
+  "ovr": 67,
+  "att": 69,
+  "mid": 65,
+  "def": 65
+ },
+ {
+  "id": 111434,
+  "url": "/26/team/111434/cremonese",
+  "name": "Cremonese",
+  "ovr": 73,
+  "att": 74,
+  "mid": 71,
+  "def": 72
+ },
+ {
+  "id": 100638,
+  "url": "/26/team/100638/telstar",
+  "name": "Telstar",
+  "ovr": 66,
+  "att": 63,
+  "mid": 66,
+  "def": 66
+ },
+ {
+  "id": 15040,
+  "url": "/26/team/15040/wsg-tirol",
+  "name": "WSG Tirol",
+  "ovr": 65,
+  "att": 65,
+  "mid": 66,
+  "def": 66
+ },
+ {
+  "id": 1805,
+  "url": "/26/team/1805/grenoble-foot-38",
+  "name": "Grenoble Foot 38",
+  "ovr": 66,
+  "att": 65,
+  "mid": 66,
+  "def": 67
+ },
+ {
+  "id": 1571,
+  "url": "/26/team/1571/galway-united",
+  "name": "Galway United",
+  "ovr": 59,
+  "att": 58,
+  "mid": 59,
+  "def": 58
+ },
+ {
+  "id": 1814,
+  "url": "/26/team/1814/stade-lavallois-mfc",
+  "name": "Stade Lavallois MFC",
+  "ovr": 66,
+  "att": 67,
+  "mid": 66,
+  "def": 65
+ },
+ {
+  "id": 1815,
+  "url": "/26/team/1815/clermont-foot",
+  "name": "Clermont Foot",
+  "ovr": 66,
+  "att": 65,
+  "mid": 65,
+  "def": 65
+ },
+ {
+  "id": 1816,
+  "url": "/26/team/1816/amiens-sc",
+  "name": "Amiens SC",
+  "ovr": 67,
+  "att": 65,
+  "mid": 66,
+  "def": 64
+ },
+ {
+  "id": 1823,
+  "url": "/26/team/1823/as-nancy",
+  "name": "AS Nancy",
+  "ovr": 65,
+  "att": 64,
+  "mid": 65,
+  "def": 63
+ },
+ {
+  "id": 1523,
+  "url": "/26/team/1523/bryne-fk",
+  "name": "Bryne FK",
+  "ovr": 62,
+  "att": 62,
+  "mid": 62,
+  "def": 62
+ },
+ {
+  "id": 381,
+  "url": "/26/team/381/barrow",
+  "name": "Barrow",
+  "ovr": 62,
+  "att": 61,
+  "mid": 61,
+  "def": 62
+ },
+ {
+  "id": 1443,
+  "url": "/26/team/1443/viborg-ff",
+  "name": "Viborg FF",
+  "ovr": 67,
+  "att": 65,
+  "mid": 68,
+  "def": 67
+ },
+ {
+  "id": 1935,
+  "url": "/26/team/1935/colchester-united",
+  "name": "Colchester United",
+  "ovr": 63,
+  "att": 62,
+  "mid": 63,
+  "def": 62
+ },
+ {
+  "id": 1971,
+  "url": "/26/team/1971/excelsior",
+  "name": "Excelsior",
+  "ovr": 66,
+  "att": 66,
+  "mid": 66,
+  "def": 66
+ },
+ {
+  "id": 2038,
+  "url": "/26/team/2038/avellino",
+  "name": "Avellino",
+  "ovr": 68,
+  "att": 69,
+  "mid": 67,
+  "def": 67
+ },
+ {
+  "id": 361,
+  "url": "/26/team/361/stevenage",
+  "name": "Stevenage",
+  "ovr": 65,
+  "att": 66,
+  "mid": 65,
+  "def": 65
+ },
+ {
+  "id": 10029,
+  "url": "/26/team/10029/tsg-1899-hoffenheim",
+  "name": "TSG 1899 Hoffenheim",
+  "ovr": 77,
+  "att": 77,
+  "mid": 78,
+  "def": 75
+ },
+ {
+  "id": 15006,
+  "url": "/26/team/15006/fc-fredericia",
+  "name": "FC Fredericia",
+  "ovr": 63,
+  "att": 63,
+  "mid": 63,
+  "def": 63
+ },
+ {
+  "id": 347,
+  "url": "/26/team/347/lecce",
+  "name": "Lecce",
+  "ovr": 71,
+  "att": 71,
+  "mid": 71,
+  "def": 70
+ },
+ {
+  "id": 15015,
+  "url": "/26/team/15015/burton-albion",
+  "name": "Burton Albion",
+  "ovr": 63,
+  "att": 64,
+  "mid": 62,
+  "def": 63
+ },
+ {
+  "id": 113926,
+  "url": "/26/team/113926/salford-city",
+  "name": "Salford City",
+  "ovr": 63,
+  "att": 63,
+  "mid": 62,
+  "def": 62
+ },
+ {
+  "id": 111659,
+  "url": "/26/team/111659/rodez-aveyron-football",
+  "name": "Rodez Aveyron Football",
+  "ovr": 64,
+  "att": 66,
+  "mid": 65,
+  "def": 64
+ },
+ {
+  "id": 112516,
+  "url": "/26/team/112516/tondela",
+  "name": "Tondela",
+  "ovr": 68,
+  "att": 72,
+  "mid": 66,
+  "def": 67
+ },
+ {
+  "id": 112254,
+  "url": "/26/team/112254/newport-county",
+  "name": "Newport County",
+  "ovr": 60,
+  "att": 60,
+  "mid": 60,
+  "def": 59
+ },
+ {
+  "id": 112222,
+  "url": "/26/team/112222/harrogate-town",
+  "name": "Harrogate Town",
+  "ovr": 61,
+  "att": 61,
+  "mid": 60,
+  "def": 60
+ },
+ {
+  "id": 111975,
+  "url": "/26/team/111975/mirassol",
+  "name": "Mirassol",
+  "ovr": 70,
+  "att": 71,
+  "mid": 69,
+  "def": 71
+ },
+ {
+  "id": 112126,
+  "url": "/26/team/112126/ifk-varnamo",
+  "name": "IFK Värnamo",
+  "ovr": 62,
+  "att": 64,
+  "mid": 62,
+  "def": 62
+ },
+ {
+  "id": 112124,
+  "url": "/26/team/112124/juve-stabia",
+  "name": "Juve Stabia",
+  "ovr": 67,
+  "att": 66,
+  "mid": 67,
+  "def": 67
+ },
+ {
+  "id": 112493,
+  "url": "/26/team/112493/carrarese",
+  "name": "Carrarese",
+  "ovr": 68,
+  "att": 68,
+  "mid": 68,
+  "def": 67
+ },
+ {
+  "id": 112510,
+  "url": "/26/team/112510/bruk-bet-termalica-nieciecza",
+  "name": "Bruk-Bet Termalica Nieciecza",
+  "ovr": 64,
+  "att": 64,
+  "mid": 64,
+  "def": 64
+ },
+ {
+  "id": 112764,
+  "url": "/26/team/112764/bromley",
+  "name": "Bromley",
+  "ovr": 62,
+  "att": 62,
+  "mid": 62,
+  "def": 62
+ },
+ {
+  "id": 112713,
+  "url": "/26/team/112713/sarmiento",
+  "name": "Sarmiento",
+  "ovr": 68,
+  "att": 70,
+  "mid": 67,
+  "def": 67
+ },
+ {
+  "id": 165,
+  "url": "/26/team/165/spvgg-greuther-furth",
+  "name": "SpVgg Greuther Fürth",
+  "ovr": 67,
+  "att": 72,
+  "mid": 68,
+  "def": 67
+ },
+ {
+  "id": 111707,
+  "url": "/26/team/111707/aldosivi",
+  "name": "Aldosivi",
+  "ovr": 68,
+  "att": 68,
+  "mid": 65,
+  "def": 67
+ },
+ {
+  "id": 111705,
+  "url": "/26/team/111705/if-brommapojkarna",
+  "name": "IF Brommapojkarna",
+  "ovr": 64,
+  "att": 64,
+  "mid": 64,
+  "def": 62
+ },
+ {
+  "id": 113044,
+  "url": "/26/team/113044/barracas-central",
+  "name": "Barracas Central",
+  "ovr": 69,
+  "att": 69,
+  "mid": 69,
+  "def": 67
+ },
+ {
+  "id": 113222,
+  "url": "/26/team/113222/al-hazem",
+  "name": "Al Hazem",
+  "ovr": 65,
+  "att": 74,
+  "mid": 65,
+  "def": 59
+ },
+ {
+  "id": 113147,
+  "url": "/26/team/113147/entella",
+  "name": "Entella",
+  "ovr": 67,
+  "att": 66,
+  "mid": 67,
+  "def": 66
+ },
+ {
+  "id": 112260,
+  "url": "/26/team/112260/fleetwood-town",
+  "name": "Fleetwood Town",
+  "ovr": 62,
+  "att": 62,
+  "mid": 63,
+  "def": 61
+ },
+ {
+  "id": 113060,
+  "url": "/26/team/113060/al-okhdood",
+  "name": "Al Okhdood",
+  "ovr": 65,
+  "att": 67,
+  "mid": 66,
+  "def": 62
+ },
+ {
+  "id": 110081,
+  "url": "/26/team/110081/northern-ireland",
+  "name": "Northern Ireland",
+  "ovr": 71,
+  "att": 66,
+  "mid": 70,
+  "def": 71
+ },
+ {
+  "id": 131124,
+  "url": "/26/team/131124/finland-women",
+  "name": "Finland Women",
+  "ovr": 72,
+  "att": 71,
+  "mid": 72,
+  "def": 70
+ },
+ {
+  "id": 1377,
+  "url": "/26/team/1377/uruguay",
+  "name": "Uruguay",
+  "ovr": 79,
+  "att": 76,
+  "mid": 79,
+  "def": 77
+ },
+ {
+  "id": 1375,
+  "url": "/26/team/1375/paraguay",
+  "name": "Paraguay",
+  "ovr": 75,
+  "att": 73,
+  "mid": 75,
+  "def": 76
+ },
+ {
+  "id": 1365,
+  "url": "/26/team/1365/turkiye",
+  "name": "Türkiye",
+  "ovr": 79,
+  "att": 79,
+  "mid": 80,
+  "def": 78
+ },
+ {
+  "id": 1370,
+  "url": "/26/team/1370/brazil",
+  "name": "Brazil",
+  "ovr": 84,
+  "att": 87,
+  "mid": 82,
+  "def": 82
+ },
+ {
+  "id": 105035,
+  "url": "/26/team/105035/holland",
+  "name": "Holland",
+  "ovr": 82,
+  "att": 80,
+  "mid": 83,
+  "def": 83
+ },
+ {
+  "id": 105013,
+  "url": "/26/team/105013/bosnia-herzegovina",
+  "name": "Bosnia & Herzegovina",
+  "ovr": 73,
+  "att": 76,
+  "mid": 70,
+  "def": 75
+ },
+ {
+  "id": 1369,
+  "url": "/26/team/1369/argentina",
+  "name": "Argentina",
+  "ovr": 83,
+  "att": 86,
+  "mid": 82,
+  "def": 79
+ },
+ {
+  "id": 1343,
+  "url": "/26/team/1343/italy",
+  "name": "Italy",
+  "ovr": 83,
+  "att": 82,
+  "mid": 83,
+  "def": 83
+ },
+ {
+  "id": 1363,
+  "url": "/26/team/1363/sweden",
+  "name": "Sweden",
+  "ovr": 77,
+  "att": 84,
+  "mid": 76,
+  "def": 76
+ },
+ {
+  "id": 1364,
+  "url": "/26/team/1364/switzerland",
+  "name": "Switzerland",
+  "ovr": 78,
+  "att": 77,
+  "mid": 78,
+  "def": 76
+ },
+ {
+  "id": 1367,
+  "url": "/26/team/1367/wales",
+  "name": "Wales",
+  "ovr": 75,
+  "att": 74,
+  "mid": 76,
+  "def": 74
+ },
+ {
+  "id": 1386,
+  "url": "/26/team/1386/mexico",
+  "name": "Mexico",
+  "ovr": 76,
+  "att": 78,
+  "mid": 75,
+  "def": 75
+ },
+ {
+  "id": 1387,
+  "url": "/26/team/1387/united-states",
+  "name": "United States",
+  "ovr": 77,
+  "att": 77,
+  "mid": 79,
+  "def": 77
+ },
+ {
+  "id": 113009,
+  "url": "/26/team/113009/united-states-women",
+  "name": "United States Women",
+  "ovr": 83,
+  "att": 84,
+  "mid": 83,
+  "def": 81
+ },
+ {
+  "id": 1366,
+  "url": "/26/team/1366/ukraine",
+  "name": "Ukraine",
+  "ovr": 77,
+  "att": 79,
+  "mid": 76,
+  "def": 76
+ },
+ {
+  "id": 131877,
+  "url": "/26/team/131877/poland-women",
+  "name": "Poland Women",
+  "ovr": 75,
+  "att": 89,
+  "mid": 76,
+  "def": 73
+ },
+ {
+  "id": 113996,
+  "url": "/26/team/113996/argentina-women",
+  "name": "Argentina Women",
+  "ovr": 70,
+  "att": 67,
+  "mid": 65,
+  "def": 70
+ },
+ {
+  "id": 113984,
+  "url": "/26/team/113984/scotland-women",
+  "name": "Scotland Women",
+  "ovr": 73,
+  "att": 72,
+  "mid": 76,
+  "def": 71
+ },
+ {
+  "id": 113011,
+  "url": "/26/team/113011/holland-women",
+  "name": "Holland Women",
+  "ovr": 81,
+  "att": 81,
+  "mid": 82,
+  "def": 80
+ },
+ {
+  "id": 113012,
+  "url": "/26/team/113012/spain-women",
+  "name": "Spain Women",
+  "ovr": 85,
+  "att": 83,
+  "mid": 90,
+  "def": 85
+ },
+ {
+  "id": 1667,
+  "url": "/26/team/1667/senegal",
+  "name": "Senegal",
+  "ovr": 79,
+  "att": 79,
+  "mid": 80,
+  "def": 78
+ },
+ {
+  "id": 1886,
+  "url": "/26/team/1886/hungary",
+  "name": "Hungary",
+  "ovr": 74,
+  "att": 77,
+  "mid": 74,
+  "def": 74
+ },
+ {
+  "id": 113008,
+  "url": "/26/team/113008/sweden-women",
+  "name": "Sweden Women",
+  "ovr": 77,
+  "att": 78,
+  "mid": 77,
+  "def": 75
+ },
+ {
+  "id": 1411,
+  "url": "/26/team/1411/japan",
+  "name": "Japan",
+  "ovr": 77,
+  "att": 78,
+  "mid": 78,
+  "def": 76
+ },
+ {
+  "id": 113000,
+  "url": "/26/team/113000/canada-women",
+  "name": "Canada Women",
+  "ovr": 79,
+  "att": 79,
+  "mid": 76,
+  "def": 79
+ },
+ {
+  "id": 113002,
+  "url": "/26/team/113002/england-women",
+  "name": "England Women",
+  "ovr": 85,
+  "att": 88,
+  "mid": 85,
+  "def": 84
+ },
+ {
+  "id": 113003,
+  "url": "/26/team/113003/france-women",
+  "name": "France Women",
+  "ovr": 83,
+  "att": 86,
+  "mid": 84,
+  "def": 82
+ },
+ {
+  "id": 1391,
+  "url": "/26/team/1391/tunisia",
+  "name": "Tunisia",
+  "ovr": 71,
+  "att": 70,
+  "mid": 72,
+  "def": 70
+ },
+ {
+  "id": 113004,
+  "url": "/26/team/113004/germany-women",
+  "name": "Germany Women",
+  "ovr": 83,
+  "att": 83,
+  "mid": 83,
+  "def": 81
+ },
+ {
+  "id": 1415,
+  "url": "/26/team/1415/australia",
+  "name": "Australia",
+  "ovr": 71,
+  "att": 69,
+  "mid": 68,
+  "def": 71
+ },
+ {
+  "id": 113007,
+  "url": "/26/team/113007/norway-women",
+  "name": "Norway Women",
+  "ovr": 78,
+  "att": 80,
+  "mid": 83,
+  "def": 73
+ },
+ {
+  "id": 113010,
+  "url": "/26/team/113010/mexico-women",
+  "name": "Mexico Women",
+  "ovr": 74,
+  "att": 76,
+  "mid": 74,
+  "def": 73
+ },
+ {
+  "id": 111513,
+  "url": "/26/team/111513/jordan",
+  "name": "Jordan",
+  "ovr": 66,
+  "att": 66,
+  "mid": 67,
+  "def": 66
+ },
+ {
+  "id": 1318,
+  "url": "/26/team/1318/england",
+  "name": "England",
+  "ovr": 84,
+  "att": 84,
+  "mid": 85,
+  "def": 83
+ },
+ {
+  "id": 974,
+  "url": "/26/team/974/korea-republic",
+  "name": "Korea Republic",
+  "ovr": 75,
+  "att": 79,
+  "mid": 74,
+  "def": 74
+ },
+ {
+  "id": 1322,
+  "url": "/26/team/1322/austria-national-team",
+  "name": "Austria (National team)",
+  "ovr": 78,
+  "att": 76,
+  "mid": 78,
+  "def": 79
+ },
+ {
+  "id": 1325,
+  "url": "/26/team/1325/belgium",
+  "name": "Belgium",
+  "ovr": 81,
+  "att": 82,
+  "mid": 82,
+  "def": 77
+ },
+ {
+  "id": 111130,
+  "url": "/26/team/111130/egypt",
+  "name": "Egypt",
+  "ovr": 74,
+  "att": 76,
+  "mid": 74,
+  "def": 71
+ },
+ {
+  "id": 111115,
+  "url": "/26/team/111115/iran",
+  "name": "Iran",
+  "ovr": 72,
+  "att": 73,
+  "mid": 72,
+  "def": 72
+ },
+ {
+  "id": 111114,
+  "url": "/26/team/111114/saudi-arabia",
+  "name": "Saudi Arabia",
+  "ovr": 72,
+  "att": 75,
+  "mid": 73,
+  "def": 71
+ },
+ {
+  "id": 111112,
+  "url": "/26/team/111112/ivory-coast",
+  "name": "Ivory Coast",
+  "ovr": 78,
+  "att": 79,
+  "mid": 77,
+  "def": 78
+ },
+ {
+  "id": 111111,
+  "url": "/26/team/111111/morocco",
+  "name": "Morocco",
+  "ovr": 79,
+  "att": 79,
+  "mid": 78,
+  "def": 79
+ },
+ {
+  "id": 111527,
+  "url": "/26/team/111527/qatar",
+  "name": "Qatar",
+  "ovr": 69,
+  "att": 72,
+  "mid": 67,
+  "def": 66
+ },
+ {
+  "id": 111448,
+  "url": "/26/team/111448/algeria",
+  "name": "Algeria",
+  "ovr": 76,
+  "att": 74,
+  "mid": 75,
+  "def": 77
+ },
+ {
+  "id": 111512,
+  "url": "/26/team/111512/iraq",
+  "name": "Iraq",
+  "ovr": 65,
+  "att": 63,
+  "mid": 66,
+  "def": 64
+ },
+ {
+  "id": 111510,
+  "url": "/26/team/111510/indonesia",
+  "name": "Indonesia",
+  "ovr": 69,
+  "att": 64,
+  "mid": 66,
+  "def": 71
+ },
+ {
+  "id": 111485,
+  "url": "/26/team/111485/uzbekistan",
+  "name": "Uzbekistan",
+  "ovr": 68,
+  "att": 69,
+  "mid": 65,
+  "def": 70
+ },
+ {
+  "id": 111475,
+  "url": "/26/team/111475/panama",
+  "name": "Panamá",
+  "ovr": 70,
+  "att": 71,
+  "mid": 70,
+  "def": 69
+ },
+ {
+  "id": 111473,
+  "url": "/26/team/111473/new-zealand",
+  "name": "New Zealand",
+  "ovr": 70,
+  "att": 74,
+  "mid": 69,
+  "def": 69
+ },
+ {
+  "id": 111465,
+  "url": "/26/team/111465/ecuador",
+  "name": "Ecuador",
+  "ovr": 76,
+  "att": 76,
+  "mid": 76,
+  "def": 77
+ },
+ {
+  "id": 111545,
+  "url": "/26/team/111545/congo-dr",
+  "name": "Congo DR",
+  "ovr": 74,
+  "att": 78,
+  "mid": 73,
+  "def": 74
+ },
+ {
+  "id": 111456,
+  "url": "/26/team/111456/cabo-verde",
+  "name": "Cabo Verde",
+  "ovr": 70,
+  "att": 67,
+  "mid": 69,
+  "def": 69
+ },
+ {
+  "id": 111455,
+  "url": "/26/team/111455/canada",
+  "name": "Canada",
+  "ovr": 75,
+  "att": 77,
+  "mid": 73,
+  "def": 75
+ },
+ {
+  "id": 111109,
+  "url": "/26/team/111109/colombia",
+  "name": "Colombia",
+  "ovr": 78,
+  "att": 79,
+  "mid": 78,
+  "def": 79
+ },
+ {
+  "id": 111099,
+  "url": "/26/team/111099/south-africa",
+  "name": "South Africa",
+  "ovr": 70,
+  "att": 70,
+  "mid": 69,
+  "def": 70
+ },
+ {
+  "id": 115362,
+  "url": "/26/team/115362/denmark-women",
+  "name": "Denmark Women",
+  "ovr": 75,
+  "att": 74,
+  "mid": 76,
+  "def": 75
+ },
+ {
+  "id": 1352,
+  "url": "/26/team/1352/norway",
+  "name": "Norway",
+  "ovr": 79,
+  "att": 81,
+  "mid": 80,
+  "def": 75
+ },
+ {
+  "id": 1353,
+  "url": "/26/team/1353/poland",
+  "name": "Poland",
+  "ovr": 77,
+  "att": 82,
+  "mid": 75,
+  "def": 78
+ },
+ {
+  "id": 1354,
+  "url": "/26/team/1354/portugal",
+  "name": "Portugal",
+  "ovr": 84,
+  "att": 83,
+  "mid": 86,
+  "def": 83
+ },
+ {
+  "id": 1355,
+  "url": "/26/team/1355/republic-of-ireland",
+  "name": "Republic of Ireland",
+  "ovr": 74,
+  "att": 75,
+  "mid": 71,
+  "def": 74
+ },
+ {
+  "id": 1356,
+  "url": "/26/team/1356/romania",
+  "name": "Romania",
+  "ovr": 73,
+  "att": 72,
+  "mid": 72,
+  "def": 72
+ },
+ {
+  "id": 1359,
+  "url": "/26/team/1359/scotland",
+  "name": "Scotland",
+  "ovr": 76,
+  "att": 77,
+  "mid": 78,
+  "def": 74
+ },
+ {
+  "id": 1362,
+  "url": "/26/team/1362/spain",
+  "name": "Spain",
+  "ovr": 85,
+  "att": 85,
+  "mid": 86,
+  "def": 83
+ },
+ {
+  "id": 115682,
+  "url": "/26/team/115682/portugal-women",
+  "name": "Portugal Women",
+  "ovr": 75,
+  "att": 75,
+  "mid": 77,
+  "def": 74
+ },
+ {
+  "id": 1341,
+  "url": "/26/team/1341/iceland",
+  "name": "Iceland",
+  "ovr": 71,
+  "att": 68,
+  "mid": 73,
+  "def": 69
+ },
+ {
+  "id": 1328,
+  "url": "/26/team/1328/croatia",
+  "name": "Croatia",
+  "ovr": 79,
+  "att": 78,
+  "mid": 80,
+  "def": 80
+ },
+ {
+  "id": 1330,
+  "url": "/26/team/1330/czech-republic",
+  "name": "Czech Republic",
+  "ovr": 77,
+  "att": 78,
+  "mid": 75,
+  "def": 74
+ },
+ {
+  "id": 112048,
+  "url": "/26/team/112048/haiti",
+  "name": "Haiti",
+  "ovr": 69,
+  "att": 70,
+  "mid": 69,
+  "def": 69
+ },
+ {
+  "id": 112054,
+  "url": "/26/team/112054/curacao",
+  "name": "Curaçao",
+  "ovr": 68,
+  "att": 66,
+  "mid": 69,
+  "def": 69
+ },
+ {
+  "id": 111462,
+  "url": "/26/team/111462/ghana",
+  "name": "Ghana",
+  "ovr": 75,
+  "att": 77,
+  "mid": 74,
+  "def": 73
+ },
+ {
+  "id": 1331,
+  "url": "/26/team/1331/denmark",
+  "name": "Denmark",
+  "ovr": 78,
+  "att": 78,
+  "mid": 79,
+  "def": 78
+ },
+ {
+  "id": 1334,
+  "url": "/26/team/1334/finland",
+  "name": "Finland",
+  "ovr": 70,
+  "att": 75,
+  "mid": 69,
+  "def": 64
+ },
+ {
+  "id": 1335,
+  "url": "/26/team/1335/france",
+  "name": "France",
+  "ovr": 86,
+  "att": 87,
+  "mid": 85,
+  "def": 85
+ },
+ {
+  "id": 1337,
+  "url": "/26/team/1337/germany",
+  "name": "Germany",
+  "ovr": 84,
+  "att": 82,
+  "mid": 84,
+  "def": 84
+ },
+ {
+  "id": 116428,
+  "url": "/26/team/116428/iceland-women",
+  "name": "Iceland Women",
+  "ovr": 73,
+  "att": 73,
+  "mid": 74,
+  "def": 74
+ }
+]
