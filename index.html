@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="dark" />
+    <title>FC 26 Teamsuche</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><circle cx='16' cy='16' r='15' fill='%2316a34a'/><circle cx='16' cy='16' r='6' fill='none' stroke='white' stroke-width='2.5'/><path d='M16 1v30' stroke='white' stroke-width='2.5'/></svg>" />
+    <script type="module" crossorigin src="./assets/index-DGjq65y4.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-BFFQOUld.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <h1>FC 26 <span>Teamsuche</span></h1>
+      <div class="muted small" id="version"></div>
+    </header>
+    <main class="wrap">
+      <div id="profileArea" class="panel">
+        <div class="panel-head">
+          <h2>Gesuchte Spielerprofile</h2>
+          <div class="panel-actions">
+            <button class="link-btn" data-act="example">Beispiel laden</button>
+            <button class="link-btn" data-act="reset">Zurücksetzen</button>
+          </div>
+        </div>
+        <p class="muted small intro">Ein Team passt, wenn es für <b>jedes</b> Profil genug Spieler hat. Jeder Spieler zählt nur für ein Profil.</p>
+        <div id="profiles" class="profiles"></div>
+        <button class="add-btn" data-act="add">+ Spielerprofil hinzufügen</button>
+      </div>
+      <div class="panel">
+        <h2>Teams</h2>
+        <div id="teamFilters" class="team-filters"></div>
+      </div>
+      <div class="results-head">
+        <div id="count" class="count-label"></div>
+      </div>
+      <div id="results" class="results"><p class="empty">Lade Daten …</p></div>
+      <footer class="muted small">Daten: fifacm.com (letztes FC-26-Kader-Update). Hauptwerte aus den Einzelwerten berechnet, Sterne geschätzt.</footer>
+    </main>
+    <dialog id="teamDialog"></dialog>
+  </body>
+</html>
